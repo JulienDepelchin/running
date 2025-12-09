@@ -1,70 +1,87 @@
 Week,Date,Day,Type,Duration,Details,Targets,RPE
-1,2025-12-08,Monday,Quality,60',15' EF + 3×20'' à allure 10 km facile ; 3×8' @4:20–4:25 (r=2') ; 10' RC EF,Seuil long 4:20–4:25/km,7
-1,2025-12-10,Wednesday,EF,50',45–50' EF,5:30–5:45/km,3
+1,2025-12-08,Monday,EF,50',45–50' EF,5:30–5:45/km,3
+1,2025-12-10,Wednesday,Quality,60',15' EF + 3×20'' à allure 10 km facile ; 3×8' @4:20–4:25 (r=2') ; 10' RC EF,Seuil long 4:20–4:25/km,7
 1,2025-12-11,Thursday,Natation,30–45',Natation récupération,--,2
+1,2025-12-13,Saturday,HomeTrainer,45',Home trainer séance endurance,--,3-4
 1,2025-12-14,Sunday,SL,70',70' EF,5:30–5:45/km,4
-2,2025-12-15,Monday,Quality,60',"15' EF ; 2×(6' @4:20 + 3' @4:10 + 3×1' @3:55, r=1') ; 10' RC",Mixte 4:20/4:10/3:55,7-8
-2,2025-12-17,Wednesday,EF,50',50' EF,5:30–5:45/km,3
+2,2025-12-15,Monday,EF,50',50' EF,5:30–5:45/km,3
+2,2025-12-17,Wednesday,Quality,60',"15' EF ; 2×(6' @4:20 + 3' @4:10 + 3×1' @3:55, r=1') ; 10' RC",Mixte 4:20/4:10/3:55,7-8
 2,2025-12-18,Thursday,Natation,30–45',Natation récupération,--,2
+2,2025-12-20,Saturday,HomeTrainer,45',Home trainer séance endurance,--,3-4
 2,2025-12-21,Sunday,SL,75',75' EF progressif (dernier 10' @5:00/km),5:30–5:45/km,4
-3,2025-12-22,Monday,Quality,65',20' EF ; 2×12' @4:15–4:20 (r=3') ; 10' RC,Seuil long 4:15–4:20/km,7
-3,2025-12-24,Wednesday,EF,50',50' EF,5:30–5:45/km,3
+3,2025-12-22,Monday,EF,50',50' EF,5:30–5:45/km,3
+3,2025-12-24,Wednesday,Quality,65',20' EF ; 2×12' @4:15–4:20 (r=3') ; 10' RC,Seuil long 4:15–4:20/km,7
 3,2025-12-25,Thursday,Natation,30–45',Natation,--,2
+3,2025-12-27,Saturday,HomeTrainer,45',Home trainer séance endurance,--,3-4
 3,2025-12-28,Sunday,SL,75',75' EF,5:30–5:45/km,4
-4,2025-12-29,Monday,Quality,55',15' EF ; 12×1' @4:00 /1' EF ; 10' RC,AS10 contrôlé 4:00/km,6
-4,2025-12-31,Wednesday,EF,45',45' EF,5:30–5:45/km,3
+4,2025-12-29,Monday,EF,45',45' EF,5:30–5:45/km,3
+4,2025-12-31,Wednesday,Quality,55',15' EF ; 12×1' @4:00 /1' EF ; 10' RC,AS10 contrôlé 4:00/km,6
 4,2026-01-01,Thursday,Natation,30–45',Natation,--,2
+4,2026-01-03,Saturday,HomeTrainer,45',Home trainer séance endurance,--,3-4
 4,2026-01-04,Sunday,SL,60',60' EF,5:30–5:45/km,3
-5,2026-01-05,Monday,Quality,60',20' EF ; 6×1000 @4:03–4:05 (r=2') ; 10' RC,AS10 large 4:03–4:05/km,8
-5,2026-01-07,Wednesday,EF,50',50' EF,5:30–5:45/km,3
+5,2026-01-05,Monday,EF,50',50' EF,5:30–5:45/km,3
+5,2026-01-07,Wednesday,Quality,60',20' EF ; 6×1000 @4:03–4:05 (r=2') ; 10' RC,AS10 large 4:03–4:05/km,8
 5,2026-01-08,Thursday,Natation,30–45',Natation,--,2
+5,2026-01-10,Saturday,HomeTrainer,45',Home trainer séance endurance,--,3-4
 5,2026-01-11,Sunday,SL,75–80',75–80' EF,5:30–5:45/km,4
-6,2026-01-12,Monday,Quality,65',20' EF ; 3×2000 @4:05–4:08 (r=3') ; 10' RC,Endurance de vitesse 4:05–4:08/km,8
+6,2026-01-14,Wednesday,Quality,65',20' EF ; 3×2000 @4:05–4:08 (r=3') ; 10' RC,Endurance de vitesse 4:05–4:08/km,8
 6,2026-01-14,Wednesday,EF+Strides,50',45' EF + 4×15'' à 95%,EF + biomécanique,3-4
 6,2026-01-15,Thursday,Natation,30–45',Natation,--,2
+6,2026-01-17,Saturday,HomeTrainer,45',Home trainer séance endurance,--,3-4
 6,2026-01-18,Sunday,SL,75–80',75–80' EF progressif,5:30–5:45/km,4
-7,2026-01-19,Monday,Quality,60',15' EF ; 3 km @4:25 + 2 km @4:15 + 1 km @4:05 + 1 km @3:58 (r=2') ; 10' RC,Progressif gestion d'allure,8
-7,2026-01-21,Wednesday,EF,50',50' EF,5:30–5:45/km,3
+7,2026-01-19,Monday,EF,50',50' EF,5:30–5:45/km,3
+7,2026-01-21,Wednesday,Quality,60',15' EF ; 3 km @4:25 + 2 km @4:15 + 1 km @4:05 + 1 km @3:58 (r=2') ; 10' RC,Progressif gestion d'allure,8
 7,2026-01-22,Thursday,Natation,30–45',Natation,--,2
+7,2026-01-24,Saturday,HomeTrainer,45',Home trainer séance endurance,--,3-4
 7,2026-01-25,Sunday,SL,80',80' EF,5:30–5:45/km,4
-8,2026-01-26,Monday,Quality,55',20' EF ; 10×400 @1'30–1'33 (r=1'15) ; 10' RC,VMA utile 3:45–3:55/km,7
-8,2026-01-28,Wednesday,EF,45',45' EF,5:30–5:45/km,3
+8,2026-01-26,Monday,EF,45',45' EF,5:30–5:45/km,3
+8,2026-01-28,Wednesday,Quality,55',20' EF ; 10×400 @1'30–1'33 (r=1'15) ; 10' RC,VMA utile 3:45–3:55/km,7
 8,2026-01-29,Thursday,Natation,30–45',Natation,--,2
+8,2026-01-31,Saturday,HomeTrainer,45',Home trainer séance endurance,--,3-4
 8,2026-02-01,Sunday,SL,70',70' EF,5:30–5:45/km,3
-9,2026-02-02,Monday,Quality,55',15' EF ; 8×1' @4:00 /1' EF ; 10' RC,Rappel vitesse AS10,6
-9,2026-02-04,Wednesday,EF,45–50',45–50' EF,5:30–5:45/km,3
+9,2026-02-02,Monday,EF,45–50',45–50' EF,5:30–5:45/km,3
+9,2026-02-04,Wednesday,Quality,55',15' EF ; 8×1' @4:00 /1' EF ; 10' RC,Rappel vitesse AS10,6
 9,2026-02-05,Thursday,Natation,30–45',Natation,--,2
+9,2026-02-07,Saturday,HomeTrainer,45',Home trainer séance endurance,--,3-4
 9,2026-02-08,Sunday,SL,70',70' EF,5:30–5:45/km,3-4
-10,2026-02-09,Monday,Quality,60',20' EF ; 4×1600 @4:05–4:08 (r=2'30) ; 10' RC,Seuil haut / AS10-5%,7-8
-10,2026-02-11,Wednesday,EF,50',50' EF,5:30–5:45/km,3
+10,2026-02-09,Monday,EF,50',50' EF,5:30–5:45/km,3
+10,2026-02-11,Wednesday,Quality,60',20' EF ; 4×1600 @4:05–4:08 (r=2'30) ; 10' RC,Seuil haut / AS10-5%,7-8
 10,2026-02-12,Thursday,Natation,30–45',Natation,--,2
+10,2026-02-14,Saturday,HomeTrainer,45',Home trainer séance endurance,--,3-4
 10,2026-02-15,Sunday,SL,75',75' EF,5:30–5:45/km,4
-11,2026-02-16,Monday,Quality,60',20' EF ; 3×9' (5' @4:25 + 4' @4:10) r=3' ; 10' RC,Mixte marathon/semi,7-8
-11,2026-02-18,Wednesday,EF,50',50' EF,5:30–5:45/km,3
+11,2026-02-16,Monday,EF,50',50' EF,5:30–5:45/km,3
+11,2026-02-18,Wednesday,Quality,60',20' EF ; 3×9' (5' @4:25 + 4' @4:10) r=3' ; 10' RC,Mixte marathon/semi,7-8
 11,2026-02-19,Thursday,Natation,30–45',Natation,--,2
+11,2026-02-21,Saturday,HomeTrainer,45',Home trainer séance endurance,--,3-4
 11,2026-02-22,Sunday,SL,75',75' EF,5:30–5:45/km,4
-12,2026-02-23,Monday,Quality,50',15' EF ; 6×1' @4:00 /1'15 EF ; 10' RC,"Rappel vitesse, frais pour trail",6
-12,2026-02-25,Wednesday,EF,45',45' EF,5:30–5:45/km,3
+12,2026-02-23,Monday,EF,45',45' EF,5:30–5:45/km,3
+12,2026-02-25,Wednesday,Quality,50',15' EF ; 6×1' @4:00 /1'15 EF ; 10' RC,"Rappel vitesse, frais pour trail",6
 12,2026-02-26,Thursday,Natation,30–45',Natation,--,2
+12,2026-02-28,Saturday,HomeTrainer,45',Home trainer séance endurance,--,3-4
 12,2026-03-01,Sunday,SL,60',60' EF tranquille,5:30–5:45/km,3
 13,2026-03-02,Monday,EF+Strides,45',40' EF + 4×15'' accélérations faciles,EF + technique,3
-13,2026-03-04,Wednesday,EF,45–50',45–50' EF,5:30–5:45/km,3
+13,2026-03-02,Monday,EF,45–50',45–50' EF,5:30–5:45/km,3
 13,2026-03-05,Thursday,Natation,30–45',Natation,--,2
+13,2026-03-07,Saturday,HomeTrainer,45',Home trainer séance endurance,--,3-4
 13,2026-03-08,Sunday,Trail,~90',Trail 16 km (+220 m D+) allure contrôlée,Gestion effort RPE 7/10,7
-14,2026-03-09,Monday,Quality,55-60',20' EF ; 5×1000 @3:58–4:02 (r=2') ; 10' RC,"AS10 serrée, séance clé",8
-14,2026-03-11,Wednesday,EF,45–50',45–50' EF,5:30–5:45/km,3
+14,2026-03-09,Monday,EF,45–50',45–50' EF,5:30–5:45/km,3
+14,2026-03-11,Wednesday,Quality,55-60',20' EF ; 5×1000 @3:58–4:02 (r=2') ; 10' RC,"AS10 serrée, séance clé",8
 14,2026-03-12,Thursday,Natation,30–45',Natation,--,2
+14,2026-03-14,Saturday,HomeTrainer,45',Home trainer séance endurance,--,3-4
 14,2026-03-15,Sunday,SL,75',75' EF,5:30–5:45/km,4
-15,2026-03-16,Monday,Quality,65',20' EF ; 3×3000 @4:05 (r=3') ; 10' RC,Force spécifique 10 km,8-9
-15,2026-03-18,Wednesday,EF,45–50',45–50' EF,5:30–5:45/km,3
+15,2026-03-16,Monday,EF,45–50',45–50' EF,5:30–5:45/km,3
+15,2026-03-18,Wednesday,Quality,65',20' EF ; 3×3000 @4:05 (r=3') ; 10' RC,Force spécifique 10 km,8-9
 15,2026-03-19,Thursday,Natation,30–45',Natation,--,2
+15,2026-03-21,Saturday,HomeTrainer,45',Home trainer séance endurance,--,3-4
 15,2026-03-22,Sunday,SL,80',80' EF,5:30–5:45/km,4
-16,2026-03-23,Monday,Quality,60',20' EF ; 2×2000 @4:00 (r=3') + 3×1' @3:45 (r=1') ; 10' RC,Pré-compétition AS10 + vitesse,8
-16,2026-03-25,Wednesday,EF,45',45' EF,5:30–5:45/km,3
+16,2026-03-23,Monday,EF,45',45' EF,5:30–5:45/km,3
+16,2026-03-25,Wednesday,Quality,60',20' EF ; 2×2000 @4:00 (r=3') + 3×1' @3:45 (r=1') ; 10' RC,Pré-compétition AS10 + vitesse,8
 16,2026-03-26,Thursday,Natation,30–45',Natation,--,2
+16,2026-03-28,Saturday,HomeTrainer,45',Home trainer séance endurance,--,3-4
 16,2026-03-29,Sunday,SL,70',70' EF + 10' @4:45/km,--,4
-17,2026-03-30,Monday,Quality,45',15' EF ; 6×1' @3:50–3:55 (r=1'15) ; 10' RC,Affûtage vitesse contrôlée,6
-17,2026-04-01,Wednesday,EF,30',30' EF très relax,--,2
+17,2026-03-30,Monday,EF,30',30' EF très relax,--,2
+17,2026-04-01,Wednesday,Quality,45',15' EF ; 6×1' @3:50–3:55 (r=1'15) ; 10' RC,Affûtage vitesse contrôlée,6
 17,2026-04-02,Thursday,Natation,30–40',Natation facile,--,2
 17,2026-04-03,Friday,Easy,25',20' EF + 3×20'' rapides,--,2
+17,2026-04-04,Saturday,HomeTrainer,45',Home trainer séance endurance,--,3-4
 17,2026-04-05,Sunday,Race,40',10 km Roncq – objectif sub 40,Pacing 4:05 → 4:00/km,9-10
