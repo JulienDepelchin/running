@@ -1,34 +1,36 @@
 Week,Date,Day,Type,Duration,Details,Targets,RPE,Distance_km
-1,2026-04-08,Wednesday,Quali,50 min,15' EF (5:00–5:20/km) + 6' AM (4:15–4:25/km) + 3x2' AS21 (3:58–4:05/km) r=1' + 4x1' AS10 (3:45–3:55/km) r=1' + 10' EF,Multi-allures fluide,7.0,10.0
-1,2026-04-10,Friday,EF,45 min,"Footing + 6x15"" accélérations (3:40–3:50/km)",EF 5:00–5:20/km,3.0,8.0
-1,2026-04-12,Sunday,SL,1h10,Sortie longue progressive,5:10–5:30/km → 4:45–5:00/km,4.0,13.0
-2,2026-04-14,Tuesday,EF,45 min,"Footing + éducatifs + 6x15""",EF 5:00–5:20/km,3.0,8.0
-2,2026-04-16,Thursday,Quali,55 min,15' EF + 3x6' AS21 (3:58–4:05/km) r=2' + EF,Seuil,7.0,11.0
-2,2026-04-19,Sunday,SL,1h15,Sortie longue facile,5:05–5:25/km,4.0,14.0
-3,2026-04-21,Tuesday,EF,40 min,Footing + 5 lignes droites,EF 5:05–5:25/km,3.0,7.0
-3,2026-04-23,Thursday,Quali,50 min,15' EF + 2x6x300m (3:40–3:50/km) r=1'/3' + EF,Vitesse contrôlée,8.0,9.0
-3,2026-04-26,Sunday,Course,10 km,Course des deux stades,3:50–3:55/km,9.0,10.0
-4,2026-04-28,Tuesday,Récup,40 min,Footing très facile,5:15–5:40/km,2.0,7.0
-4,2026-04-30,Thursday,Quali,55 min,15' EF + 2x8' AS21 (3:58–4:05/km) + 5' AM (4:15–4:25/km) + EF,Endurance spécifique,7.0,11.0
-4,2026-05-03,Sunday,SL,1h20,Sortie longue,5:05–5:25/km,4.0,15.0
-5,2026-05-05,Tuesday,EF,45 min,"Footing + 6x15""",EF 5:00–5:20/km,3.0,8.0
-5,2026-05-07,Thursday,Quali,55 min,15' EF + 10' AM (4:15–4:25/km) + 3x3' AS21 (3:58–4:05/km) + 4x1' AS10 (3:45–3:55/km),Mix allures,7.0,11.0
-5,2026-05-10,Sunday,SL,1h25,Sortie longue + 15' AS21 (3:58–4:05/km),5:05–5:25/km puis 4:00/km,5.0,16.0
-6,2026-05-12,Tuesday,EF,45 min,Footing + éducatifs,EF 5:00–5:20/km,3.0,8.0
-6,2026-05-14,Thursday,Quali,60 min,15' EF + 3x8' AS21 (3:58–4:05/km) r=2' + EF,Seuil long,7.0,12.0
-6,2026-05-17,Sunday,SL,1h30,Sortie longue,5:05–5:25/km,4.0,17.0
-7,2026-05-19,Tuesday,EF,45 min,"Footing + 5x20""",EF 5:00–5:20/km,3.0,8.0
-7,2026-05-21,Thursday,Quali,50 min,15' EF + 12x1'/1' (3:45–3:55/km),Relance,7.0,10.0
-7,2026-05-24,Sunday,SL,1h20,Sortie longue + 20' AS21 (3:58–4:05/km),5:05–5:25/km puis 4:00/km,5.0,15.0
-8,2026-05-26,Tuesday,Récup,40 min,Footing facile,5:15–5:40/km,2.0,7.0
-8,2026-05-28,Thursday,Quali,45 min,15' EF + 2x5' AS10 (3:50–3:55/km) + EF,Rappel vitesse,6.0,9.0
-8,2026-05-31,Sunday,Course,10 km,Foulées de Bondues,3:45–3:55/km,9.0,10.0
-9,2026-06-02,Tuesday,Récup,40 min,Footing très facile,5:15–5:40/km,2.0,7.0
-9,2026-06-04,Thursday,Quali,55 min,15' EF + 2x10' AS21 (3:58–4:05/km) r=2',Spécifique semi,7.0,11.0
-9,2026-06-07,Sunday,SL,1h30,Sortie longue,5:05–5:25/km,4.0,17.0
-10,2026-06-09,Tuesday,EF,45 min,Footing + lignes droites,EF 5:00–5:20/km,3.0,8.0
-10,2026-06-11,Thursday,Quali,55 min,15' EF + 3x8' AS21 (3:58–4:05/km),Confiance allure,7.0,12.0
-10,2026-06-14,Sunday,SL,1h15,Sortie longue allégée,5:10–5:30/km,3.0,13.0
-11,2026-06-16,Tuesday,EF,40 min,"Footing léger + 4x20""",EF 5:05–5:25/km,2.0,7.0
-11,2026-06-18,Thursday,Quali,40 min,15' EF + 2x5' AS21 (3:58–4:05/km),Activation,5.0,8.0
-11,2026-06-21,Sunday,Course,Semi Phalempin,Objectif 3:58–4:05/km (≈1h27–1h29),9,21.1,
+1,2026-04-08,Wednesday,Quali,50 min,15' EF 5:00–5:20/km + 6' AM 4:15–4:25/km + 3x(2' AS21 3:58–4:05/km + 1' EF 5:10–5:30/km) + 4x(1' AS10 3:45–3:55/km + 1' EF) + 10' EF,Multi-allures,7,10.0
+1,2026-04-09,Thursday,Natation,1h,Séance technique + éducatifs (faible intensité),Récup active,2,0.0
+1,2026-04-11,Saturday,HT,45 min,Zwift intensité modérée à haute,Cardio sans impact,6,0.0
+1,2026-04-12,Sunday,SL,1h10,40' EF 5:10–5:30/km + 20' EF actif 4:50–5:05/km + 10' EF retour au calme,Endurance progressive,4,13.0
+2,2026-04-14,Tuesday,EF,45 min,45' EF 5:00–5:20/km + 6x15'' accélérations 3:40/km,Relâchement,3,8.0
+2,2026-04-16,Thursday,Quali,55 min,15' EF + 3x(6' AS21 3:58–4:05/km + 2' EF) + 10' EF,Seuil,7,11.0
+2,2026-04-16,Thursday,Natation,1h,Technique,Récup,2,0.0
+2,2026-04-18,Saturday,HT,45 min,Zwift tempo,Cardio,6,0.0
+2,2026-04-19,Sunday,SL,1h15,50' EF 5:10–5:30/km + 25' EF actif 4:50–5:05/km,Volume,4,14.0
+3,2026-04-21,Tuesday,EF,40 min,40' EF 5:05–5:25/km,Footing,3,7.0
+3,2026-04-23,Thursday,Quali,50 min,15' EF + 2x(6x300m à 3:40–3:50/km r=1' + 3' EF) + 10' EF,Vitesse,8,9.0
+3,2026-04-23,Thursday,Natation,1h,Technique,Récup,2,0.0
+3,2026-04-25,Saturday,HT,40 min,Zwift intensité modérée,Cardio,5,0.0
+3,2026-04-26,Sunday,Course,10 km,Course complète,3:50–3:55/km,9,10.0
+4,2026-04-28,Tuesday,Récup,40 min,40' EF 5:15–5:40/km,Récup,2,7.0
+4,2026-04-30,Thursday,Quali,55 min,15' EF + 2x(8' AS21 + 2' EF) + 5' AM 4:15–4:25/km + 10' EF,Spécifique,7,11.0
+4,2026-04-30,Thursday,Natation,1h,Technique,Récup,2,0.0
+4,2026-05-02,Saturday,HT,45 min,Zwift tempo,Cardio,6,0.0
+4,2026-05-03,Sunday,SL,1h20,50' EF + 20' EF actif + 10' retour calme,Volume,4,15.0
+5,2026-05-07,Thursday,Quali,55 min,15' EF + 10' AM + 3x(3' AS21 + 1' EF) + 4x(1' AS10 + 1' EF) + 10' EF,Mix,7,11.0
+5,2026-05-07,Thursday,Natation,1h,Technique,Récup,2,0.0
+5,2026-05-10,Sunday,SL,1h25,50' EF + 20' EF actif + 15' AS21,Spécifique semi,5,16.0
+6,2026-05-14,Thursday,Quali,60 min,15' EF + 3x(8' AS21 + 2' EF) + 10' EF,Seuil long,7,12.0
+6,2026-05-14,Thursday,Natation,1h,Technique,Récup,2,0.0
+6,2026-05-17,Sunday,SL,1h30,60' EF + 30' EF actif,Volume,4,17.0
+7,2026-05-21,Thursday,Quali,50 min,15' EF + 12x(1' AS10 + 1' EF) + 10' EF,Vitesse,7,10.0
+7,2026-05-21,Thursday,Natation,1h,Technique,Récup,2,0.0
+7,2026-05-24,Sunday,SL,1h20,45' EF + 15' EF actif + 20' AS21,Spécifique,5,15.0
+8,2026-05-31,Sunday,Course,10 km,Course complète,3:45–3:55/km,9,10.0
+9,2026-06-04,Thursday,Quali,55 min,15' EF + 2x(10' AS21 + 2' EF) + 10' EF,Spécifique semi,7,11.0
+9,2026-06-07,Sunday,SL,1h30,60' EF + 30' EF actif,Volume,4,17.0
+10,2026-06-11,Thursday,Quali,55 min,15' EF + 3x8' AS21 + 10' EF,Confiance,7,12.0
+10,2026-06-14,Sunday,SL,1h15,45' EF + 20' EF actif + 10' EF,Allégée,3,13.0
+11,2026-06-18,Thursday,Quali,40 min,15' EF + 2x(5' AS21 + 2' EF) + 10' EF,Activation,5,8.0
+11,2026-06-21,Sunday,Course,Semi,Course complète,3:58–4:05/km,9,21.1
