@@ -1,76 +1,80 @@
 Week,Date,Day,Type,Duration,Details,Targets,RPE,Distance_km
 1,2026-07-21,Tuesday,EF,45 min,45' EF 5'05-5'30/km + 6x15'' foulees r=45'',Reprise structuree post-test VMA,3,8
 1,2026-07-22,Wednesday,Quali,55 min,15' EF + Fartlek 12x(1' allure semi 4'00-4'05/km + 1' SV1 4'35-4'45/km) sans pause + 10' EF,Fartlek continu — vitesse+endurance (RunWise),7,11
-1,2026-07-22,Wednesday,Renfo,25 min,Renfo coureur le SOIR — 5 series fentes bulgares EMOM + 2 tours step-ups/leg curl + 3x10 mollets excentriques,Renfo — installation,5,0
 1,2026-07-24,Friday,EF,45 min,45' EF 5'05-5'30/km,Volume facile,3,8
-1,2026-07-26,Sunday,SL,1h20,60' EF 5'05-5'25/km + 15' AM 4'15-4'20/km + 5' EF — 1 gel a 45',SL + premier bloc AM + gut training,5,15
+1,2026-07-25,Saturday,SL,1h20,60' EF 5'05-5'25/km + 15' AM 4'15-4'20/km + 5' EF — 1 gel a 45',SL + premier bloc AM + gut training,5,15
+1,2026-07-26,Sunday,Renfo,25 min,Renfo fin de journee — 5 series fentes bulgares EMOM + 2 tours step-ups/leg curl + 3x10 mollets excentriques,Renfo post-SL sur jambes pre-fatiguees,5,0
+2,2026-07-27,Monday,EF,40 min,"40' EF tres souple 5'15-5'40/km — SEANCE FUSIBLE (footing doux sur courbatures du renfo, benefique recup). Saute en PREMIER si nuit hachee / fatigue",5e seance — bonus volume,3,7
 2,2026-07-28,Tuesday,EF,45 min,45' EF 5'05-5'30/km + 6x15'' foulees,Relachement,3,8
 2,2026-07-29,Wednesday,Quali,50 min,15' EF + 2x8x(30'' VMA 3'36/km + 30'' trot) r=3' entre blocs + 10' EF,Cycle VMA sem.1 — les 30/30 aperitif (RunningAddict),7,10
-2,2026-07-29,Wednesday,Renfo,25 min,Renfo coureur le SOIR — 5 series fentes bulgares + 2 tours step-ups/leg curl + mollets,Renfo — installation,5,0
 2,2026-07-31,Friday,EF,45 min,45' EF 5'05-5'30/km,Volume,3,8
-2,2026-08-02,Sunday,SL,1h30,70' EF 5'05-5'25/km + 15' AM 4'15-4'20/km + 5' EF — gels toutes les 45',SL progression volume,5,17
+2,2026-08-01,Saturday,SL,1h30,70' EF 5'05-5'25/km + 15' AM 4'15-4'20/km + 5' EF — gels toutes les 45',SL progression volume,5,17
+2,2026-08-02,Sunday,Renfo,25 min,Renfo fin de journee — 5 series bulgares + 2 tours + mollets,Renfo — installation,5,0
+3,2026-08-03,Monday,EF,40 min,"40' EF tres souple 5'15-5'40/km — SEANCE FUSIBLE (footing doux sur courbatures du renfo, benefique recup). Saute en PREMIER si nuit hachee / fatigue",5e seance — bonus volume,3,7
 3,2026-08-04,Tuesday,EF,45 min,45' EF 5'05-5'30/km + 6x15'' foulees,Activation,3,8
-3,2026-08-05,Wednesday,Quali,55 min,15' EF + 8x(1' VMA 3'36/km + 1' trot) + 10' EF,"Cycle VMA sem.2 — fractions 1'/1' meme allure (jamais plus vite, plus long)",7,10
-3,2026-08-05,Wednesday,Renfo,25 min,Renfo coureur le SOIR — 6 series fentes bulgares + 3 tours step-ups/leg curl + mollets,Renfo — montee en charge,5,0
-3,2026-08-07,Friday,EF,50 min,50' EF 5'05-5'30/km,Volume,3,9
-3,2026-08-09,Sunday,SL,1h40,75' EF 5'05-5'25/km + 20' AM 4'15-4'20/km + 5' EF — gels toutes les 45',SL — bloc AM qui s'allonge,5,19
+3,2026-08-05,Wednesday,Quali,55 min,15' EF + 8x(1' VMA 3'36/km + 1' trot) + 10' EF,Cycle VMA sem.2 — fractions 1'/1' meme allure,7,10
+3,2026-08-07,Friday,EF,45 min,45' EF 5'05-5'30/km,Volume,3,8
+3,2026-08-08,Saturday,SL,1h40,75' EF 5'05-5'25/km + 20' AM 4'15-4'20/km + 5' EF — gels toutes les 45',SL — bloc AM qui s'allonge,5,19
+3,2026-08-09,Sunday,Renfo,25 min,Renfo fin de journee — 6 series bulgares + 3 tours + mollets,Renfo — montee en charge,5,0
 4,2026-08-11,Tuesday,EF,40 min,40' EF 5'10-5'30/km,Relache — recup,3,7
 4,2026-08-12,Wednesday,Quali,45 min,15' EF + 2x(8' AM 4'15-4'20/km + 2' EF) + 10' EF,Rappel AM leger — semaine d'assimilation,6,9
-4,2026-08-12,Wednesday,Renfo,20 min,Renfo allege le SOIR — 4 series fentes bulgares + 2 tours + mollets,Renfo — entretien,4,0
 4,2026-08-14,Friday,EF,40 min,40' EF souple 5'10-5'30/km,Souplesse,3,7
-4,2026-08-16,Sunday,SL,1h20,"SL 100% EF 5'05-5'25/km — terrain varie, sans structure, plaisir",SL libre assimilation,4,15
+4,2026-08-15,Saturday,SL,1h20,"SL 100% EF 5'05-5'25/km — terrain varie, sans structure, plaisir",SL libre assimilation,4,15
+4,2026-08-16,Sunday,Renfo,20 min,Renfo allege fin de journee — 4 series bulgares + 2 tours + mollets,Renfo — entretien,4,0
+5,2026-08-17,Monday,EF,40 min,"40' EF tres souple 5'15-5'40/km — SEANCE FUSIBLE (footing doux sur courbatures du renfo, benefique recup). Saute en PREMIER si nuit hachee / fatigue",5e seance — bonus volume,3,7
 5,2026-08-18,Tuesday,EF,45 min,45' EF 5'05-5'30/km + 6x15'' foulees,Activation,3,8
-5,2026-08-19,Wednesday,Quali,55 min,15' EF + 6x(90'' VMA 3'36/km + 90'' trot) + 10' EF,Cycle VMA sem.3 — fractions 90'' (progression duree),8,10
-5,2026-08-19,Wednesday,Renfo,25 min,Renfo coureur le SOIR — 6-7 series fentes bulgares + 3 tours + mollets + pause 2'' bas de squat,Renfo — charge,5,0
-5,2026-08-21,Friday,EF,50 min,50' EF 5'05-5'30/km,Volume,3,9
-5,2026-08-23,Sunday,SL,1h45,70' EF + Canova light 4x(1 km AM 4'15-4'20/km + 1 km SV1 4'40-4'50/km) + 10' EF — gels toutes les 45',SL Canova — recuperer en courant vite (RunWise),6,20
+5,2026-08-19,Wednesday,Quali,55 min,15' EF + 6x(90'' VMA 3'36/km + 90'' trot) + 10' EF,Cycle VMA sem.3 — fractions 90'',8,10
+5,2026-08-21,Friday,EF,45 min,45' EF 5'05-5'30/km,Volume,3,8
+5,2026-08-22,Saturday,SL,1h45,70' EF + Canova light 4x(1 km AM 4'15-4'20/km + 1 km SV1 4'40-4'50/km) + 10' EF — gels toutes les 45',SL Canova — recuperer en courant vite (RunWise),6,20
+5,2026-08-23,Sunday,Renfo,25 min,Renfo fin de journee — 6-7 series bulgares + 3 tours + mollets + pause 2'' bas squat,Renfo — charge,5,0
+6,2026-08-24,Monday,EF,40 min,"40' EF tres souple 5'15-5'40/km — SEANCE FUSIBLE (footing doux sur courbatures du renfo, benefique recup). Saute en PREMIER si nuit hachee / fatigue",5e seance — bonus volume,3,7
 6,2026-08-25,Tuesday,EF,45 min,45' EF 5'05-5'30/km + 6x15'' foulees,Activation,3,8
-6,2026-08-26,Wednesday,Quali,60 min,15' EF + 2x3000m allure semi 4'00-4'05/km r=3' + 4x300m AS10 3'50/km r=50'' + 10' EF,Seance mixte multi-allures (RunWise) — concentration execution,8,12
-6,2026-08-26,Wednesday,Renfo,25 min,Renfo coureur le SOIR — 7 series fentes bulgares + 3 tours + mollets,Renfo — charge,5,0
-6,2026-08-28,Friday,EF,50 min,50' EF 5'05-5'30/km,Volume,3,9
-6,2026-08-30,Sunday,SL,1h50,80' EF 5'05-5'25/km + 25' AM 4'15-4'20/km + 5' EF — gels toutes les 45',SL majeure pre-septembre — 25' AM,6,21
+6,2026-08-26,Wednesday,Quali,60 min,15' EF + 2x3000m allure semi 4'00-4'05/km r=3' + 4x300m AS10 3'50/km r=50'' + 10' EF,Seance mixte multi-allures (RunWise),8,12
+6,2026-08-28,Friday,EF,45 min,45' EF 5'05-5'30/km,Volume,3,8
+6,2026-08-29,Saturday,SL,1h50,80' EF 5'05-5'25/km + 25' AM 4'15-4'20/km + 5' EF — gels toutes les 45',SL majeure pre-septembre — 25' AM,6,21
+6,2026-08-30,Sunday,Renfo,25 min,Renfo fin de journee — 7 series bulgares + 3 tours + mollets,Renfo — charge,5,0
 7,2026-09-01,Tuesday,EF,45 min,45' EF 5'05-5'30/km + 6x15'' foulees,Activation,3,8
 7,2026-09-02,Wednesday,Quali,50 min,15' EF + 3x(6' AM 4'15-4'20/km + 2' EF) + 2x(2' allure semi 4'00/km + 1' EF) + 10' EF,Mixte AM/semi — maintien qualites,7,10
-7,2026-09-02,Wednesday,Renfo,20 min,Renfo allege le SOIR — 5 series + 2 tours + mollets,Renfo — entretien pre-courses,4,0
-7,2026-09-03,Thursday,Natation,1h,"Cours natation — educatifs, intensite faible",Reprise natation — recup active,2,0
-7,2026-09-05,Saturday,EF,45 min,45' EF 5'05-5'30/km,Volume,3,8
-7,2026-09-06,Sunday,SL,1h30,65' EF + 20' AM 4'15-4'20/km + 5' EF — gels,SL moderee a J-6 du trail,5,17
+7,2026-09-03,Thursday,Natation,1h,"Cours natation — educatifs, intensite faible. Prend le relais de la 5e seance course",Reprise natation — recup active,2,0
+7,2026-09-04,Friday,EF,40 min,40' EF 5'10-5'30/km,Volume leger,3,7
+7,2026-09-05,Saturday,SL,1h30,65' EF + 20' AM 4'15-4'20/km + 5' EF — gels,SL moderee a J-7 du trail,5,17
+7,2026-09-06,Sunday,Renfo,20 min,Renfo allege fin de journee — 5 series + 2 tours + mollets,Renfo — entretien pre-courses,4,0
 8,2026-09-08,Tuesday,EF,40 min,40' EF souple 5'10-5'30/km + 4x20'' accelerations,Affutage pre-trail,3,7
 8,2026-09-09,Wednesday,Quali,40 min,15' EF + 2x(5' AM 4'15-4'20/km + 2' EF) + 4x30'' cotes effort + 10' EF,Activation legere + rappel cotes,5,8
 8,2026-09-10,Thursday,Natation,45 min,"Cours natation — tres souple, ecourter si possible",Recup active J-2,2,0
-8,2026-09-11,Friday,Repos,—,"Repos complet — preparation materiel + reperage parcours en ligne (profil, ravitos)",Fraicheur J-1 — pilote automatique (RunningAddict),1,0
+8,2026-09-11,Friday,Repos,—,"Repos complet — preparation materiel + reperage parcours en ligne (profil, ravitos)",Fraicheur J-1 — pilote automatique,1,0
 8,2026-09-12,Saturday,Course,~1h35-1h45,"TRAIL COTE D'OPALE — 21 km D+260m — depart prudent, gestion aux sensations, pas de montre sur l'allure, dernier tiers si jambes ok",Course stimulus n1 — gestion,8,21
+8,2026-09-13,Sunday,Repos,—,Repos complet post-trail — PAS de renfo ce week-end,Recuperation,1,0
 9,2026-09-15,Tuesday,EF,35 min,35' EF tres souple 5'20-5'40/km,Recup active post-trail,2,6
 9,2026-09-16,Wednesday,Quali,40 min,15' EF + 3x(4' AM 4'15-4'20/km + 2' EF) + 4x20'' foulees + 10' EF,Activation pre-semi — rien de plus,5,8
 9,2026-09-17,Thursday,Natation,1h,Cours natation — educatifs tranquilles,Recup active,2,0
 9,2026-09-19,Saturday,Repos,—,Repos complet + reperage sas depart + preparation tenue/gel,Fraicheur J-1 semi,1,0
-9,2026-09-20,Sunday,Course,1h26-1h32,"SEMI-MARATHON DE MARCQ — plan A si frais: allure 4'05-4'08/km. Plan B si trail dans les jambes: 4'10-4'15/km. 1 gel a 45'. Depart PRUDENT 1er km, acceleration possible apres 14e km seulement",Course test — confortablement difficile (RunningAddict),9,21
+9,2026-09-20,Sunday,Course,1h26-1h32,"SEMI-MARATHON DE MARCQ — plan A si frais: 4'05-4'08/km. Plan B si trail dans les jambes: 4'10-4'15/km. 1 gel a 45'. Depart PRUDENT, acceleration possible apres 14e km seulement",Course test — confortablement difficile,9,21
 10,2026-09-22,Tuesday,EF,40 min,40' EF souple 5'10-5'35/km,Recup post-semi,2,7
 10,2026-09-23,Wednesday,Quali,50 min,15' EF + 3x4' progressif (SV1 4'40 -> AM 4'18 -> semi 4'02) r=2' + 10' EF,Progressive 3 allures — remise en route (RunWise),6,10
-10,2026-09-23,Wednesday,Renfo,20 min,Renfo entretien le SOIR — 5 series + 2 tours + mollets,Renfo — reprise apres courses,4,0
 10,2026-09-24,Thursday,Natation,1h,Cours natation,Recup active,2,0
-10,2026-09-26,Saturday,EF,45 min,45' EF 5'05-5'30/km,Volume,3,8
-10,2026-09-27,Sunday,SL,1h35,70' EF + 20' AM 4'15-4'20/km + 5' EF — protocole gel course complet,Retour SL — transition specifique,5,18
+10,2026-09-25,Friday,EF,40 min,40' EF 5'10-5'30/km,Volume leger,3,7
+10,2026-09-26,Saturday,SL,1h35,70' EF + 20' AM 4'15-4'20/km + 5' EF — protocole gel course complet,Retour SL — transition specifique,5,18
+10,2026-09-27,Sunday,Renfo,20 min,Renfo reprise fin de journee — 5 series + 2 tours + mollets,Renfo — reprise apres courses,4,0
 11,2026-09-29,Tuesday,EF,45 min,45' EF 5'05-5'30/km + 6x15'' foulees,Activation,3,8
 11,2026-09-30,Wednesday,Quali,60 min,15' EF + 2x15' AM 4'15-4'20/km r=3' + 10' EF,Blocs AM longs — le coeur du specifique,8,13
-11,2026-09-30,Wednesday,Renfo,20 min,Renfo entretien le SOIR — 5 series + 2 tours + mollets,Renfo — entretien,4,0
 11,2026-10-01,Thursday,Natation,1h,Cours natation,Recup active,2,0
-11,2026-10-03,Saturday,EF,45 min,45' EF 5'05-5'30/km,Volume,3,8
-11,2026-10-04,Sunday,SL,1h55,80' EF 5'05-5'25/km + 30' AM 4'15-4'20/km + 5' EF — protocole gel course COMPLET + tenue course + Hoka Rocket X2,SL CLE n1 — test chaussures 1 + 30' AM,7,21
+11,2026-10-02,Friday,EF,40 min,40' EF 5'10-5'30/km,Volume leger,3,7
+11,2026-10-03,Saturday,SL,1h55,80' EF 5'05-5'25/km + 30' AM 4'15-4'20/km + 5' EF — protocole gel COMPLET + tenue course + Hoka Rocket X2,SL CLE n1 — test chaussures 1 + 30' AM,7,21
+11,2026-10-04,Sunday,Renfo,20 min,Renfo fin de journee — 5 series + 2 tours + mollets,Renfo — entretien,4,0
 12,2026-10-06,Tuesday,EF,45 min,45' EF 5'05-5'30/km + 6x15'' foulees,Activation,3,8
 12,2026-10-07,Wednesday,Quali,65 min,15' EF + 3x12' AM 4'15-4'20/km r=3' + 10' EF,Volume AM maximal en seance — derniere grosse quali,8,14
-12,2026-10-07,Wednesday,Renfo,20 min,DERNIER renfo le SOIR — version legere 4 series + 2 tours + mollets. STOP renfo apres cette date,Renfo final — stop J-18,4,0
 12,2026-10-08,Thursday,Natation,1h,Cours natation,Recup active,2,0
-12,2026-10-10,Saturday,EF,45 min,45' EF 5'05-5'30/km,Volume,3,8
-12,2026-10-11,Sunday,SL,2h00,85' EF 5'05-5'25/km + 35' AM 4'15-4'20/km + 5' EF — protocole gel COMPLET + Kiprun KD900X,SL CLE n2 — LA sortie de la saison. Test chaussures 2. Verdict allure marathon,7,22
+12,2026-10-10,Saturday,SL,2h00,85' EF 5'05-5'25/km + 35' AM 4'15-4'20/km + 5' EF — protocole gel COMPLET + Kiprun KD900X,SL CLE n2 — LA sortie de la saison. Test chaussures 2. Verdict allure,7,22
+12,2026-10-11,Sunday,Renfo,15 min,DERNIER renfo — version legere 4 series + mollets uniquement. STOP renfo apres cette date (J-14),Renfo final,3,0
 13,2026-10-13,Tuesday,EF,40 min,40' EF 5'10-5'30/km,Debut taper — on relache,3,7
 13,2026-10-14,Wednesday,Quali,50 min,15' EF + 4x(6' AM 4'15-4'20/km + 2' EF) + 10' EF,"Rappel AM — volume reduit, fraicheur qui monte",6,11
 13,2026-10-15,Thursday,Natation,1h,Cours natation — tranquille,Recup active,2,0
-13,2026-10-17,Saturday,EF,40 min,40' EF souple 5'10-5'30/km,Souplesse,3,7
-13,2026-10-18,Sunday,SL,1h25,"55' EF + 20' AM 4'15-4'20/km + 10' EF — repetition generale complete: tenue, gels, petit-dej course",SL taper — generale du jour J,5,16
+13,2026-10-17,Saturday,SL,1h25,"55' EF + 20' AM 4'15-4'20/km + 10' EF — repetition generale complete: tenue, gels, petit-dej course",SL taper — generale du jour J,5,16
+13,2026-10-18,Sunday,Repos,—,Repos complet — pas de renfo (stop depuis le 11/10),Fraicheur,1,0
 14,2026-10-20,Tuesday,EF,35 min,35' EF 5'10-5'30/km + 4x15'' accelerations,Deverrouillage,2,6
 14,2026-10-21,Wednesday,Quali,40 min,15' EF + 3x(4' AM 4'15-4'20/km + 2' EF) + 10' EF,Dernier rappel allure — court et frais,5,8
 14,2026-10-22,Thursday,Natation,30-45 min,"Cours natation ECOURTE — uniquement educatifs doux, zero intensite",Activation legere J-3,1,0
-14,2026-10-23,Friday,Repos,—,"Repos complet + preparation logistique (dossard, tenue, gels, reperage sas et parcours)",J-2 — pilote automatique,1,0
+14,2026-10-23,Friday,Repos,—,"Repos complet + preparation logistique (dossard, tenue, gels, reperage sas)",J-2 — pilote automatique,1,0
 14,2026-10-24,Saturday,EF,20 min,20' EF tres souple + 4x20'' a allure marathon,Deverrouillage J-1,2,3
-14,2026-10-25,Sunday,Course,2h59-3h02,"MARATHON DE LILLE — allure 4'15-4'16/km REGULIERE. 30 premiers km = balade concentree (RunningAddict). Gels a 34' 68' 102' 136' + flasque des le depart. Bilan au 30e: si ok, accelerer doucement apres 34e. Bornes km > montre GPS. SOURIRE dans le dur",OBJECTIF SUB 3H — le jour ou tout s'assemble,10,42
+14,2026-10-25,Sunday,Course,2h59-3h02,"MARATHON DE LILLE — allure 4'15-4'16/km REGULIERE. 30 premiers km = balade concentree. Gels a 34' 68' 102' 136' + flasque des le depart. Bilan au 30e: si ok, accelerer doucement apres 34e. Bornes km > montre GPS. SOURIRE dans le dur",OBJECTIF SUB 3H,10,42
