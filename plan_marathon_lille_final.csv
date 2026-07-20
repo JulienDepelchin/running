@@ -31,7 +31,7 @@ Week,Date,Day,Type,Duration,Details,Targets,RPE,Distance_km
 6,2026-08-25,Tuesday,EF,45 min,45' EF 5'05-5'30/km + 6x15'' foulees,Activation,3,8
 6,2026-08-26,Wednesday,Quali,60 min,15' EF + 2x3000m allure semi 4'00-4'05/km r=3' + 4x300m AS10 3'50/km r=50'' + 10' EF,Seance mixte multi-allures (RunWise),8,12
 6,2026-08-28,Friday,EF,45 min,45' EF 5'05-5'30/km,Volume,3,8
-6,2026-08-29,Saturday,SL,1h50,80' EF 5'05-5'25/km + 25' AM 4'15-4'20/km + 5' EF — gels toutes les 45',SL majeure pre-septembre — 25' AM,6,21
+6,2026-08-29,Saturday,SL,2h05,90' EF 5'05-5'25/km + 25' AM 4'15-4'20/km + 5' EF — gels toutes les 45',SL majeure pre-septembre — montee a 24 km (socle volume),6,24
 6,2026-08-30,Sunday,Renfo,25 min,Renfo fin de journee — 7 series bulgares + 3 tours + mollets,Renfo — charge,5,0
 7,2026-09-01,Tuesday,EF,45 min,45' EF 5'05-5'30/km + 6x15'' foulees,Activation,3,8
 7,2026-09-02,Wednesday,Quali,50 min,15' EF + 3x(6' AM 4'15-4'20/km + 2' EF) + 2x(2' allure semi 4'00/km + 1' EF) + 10' EF,Mixte AM/semi — maintien qualites,7,10
@@ -60,12 +60,12 @@ Week,Date,Day,Type,Duration,Details,Targets,RPE,Distance_km
 11,2026-09-30,Wednesday,Quali,60 min,15' EF + 2x15' AM 4'15-4'20/km r=3' + 10' EF,Blocs AM longs — le coeur du specifique,8,13
 11,2026-10-01,Thursday,Natation,1h,Cours natation,Recup active,2,0
 11,2026-10-02,Friday,EF,40 min,40' EF 5'10-5'30/km,Volume leger,3,7
-11,2026-10-03,Saturday,SL,1h55,80' EF 5'05-5'25/km + 30' AM 4'15-4'20/km + 5' EF — protocole gel COMPLET + tenue course + Hoka Rocket X2,SL CLE n1 — test chaussures 1 + 30' AM,7,21
+11,2026-10-03,Saturday,SL,2h10,95' EF 5'05-5'25/km + 30' AM 4'15-4'20/km + 5' EF — protocole gel COMPLET + tenue course + Hoka Rocket X2,"SL CLE n1 — 25 km, test chaussures 1 + 30' AM",7,25
 11,2026-10-04,Sunday,Renfo,20 min,Renfo fin de journee — 5 series + 2 tours + mollets,Renfo — entretien,4,0
 12,2026-10-06,Tuesday,EF,45 min,45' EF 5'05-5'30/km + 6x15'' foulees,Activation,3,8
 12,2026-10-07,Wednesday,Quali,65 min,15' EF + 3x12' AM 4'15-4'20/km r=3' + 10' EF,Volume AM maximal en seance — derniere grosse quali,8,14
 12,2026-10-08,Thursday,Natation,1h,Cours natation,Recup active,2,0
-12,2026-10-10,Saturday,SL,2h00,85' EF 5'05-5'25/km + 35' AM 4'15-4'20/km + 5' EF — protocole gel COMPLET + Kiprun KD900X,SL CLE n2 — LA sortie de la saison. Test chaussures 2. Verdict allure,7,22
+12,2026-10-10,Saturday,SL,2h15,95' EF 5'05-5'25/km + 35' AM 4'15-4'20/km + 5' EF — protocole gel COMPLET + Kiprun KD900X,"SL CLE n2 — 25 km, LA sortie de la saison. Test chaussures 2. Verdict allure",7,25
 12,2026-10-11,Sunday,Renfo,15 min,DERNIER renfo — version legere 4 series + mollets uniquement. STOP renfo apres cette date (J-14),Renfo final,3,0
 13,2026-10-13,Tuesday,EF,40 min,40' EF 5'10-5'30/km,Debut taper — on relache,3,7
 13,2026-10-14,Wednesday,Quali,50 min,15' EF + 4x(6' AM 4'15-4'20/km + 2' EF) + 10' EF,"Rappel AM — volume reduit, fraicheur qui monte",6,11
