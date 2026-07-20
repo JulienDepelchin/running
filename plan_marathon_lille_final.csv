@@ -49,12 +49,12 @@ Week,Date,Day,Type,Duration,Details,Targets,RPE,Distance_km
 9,2026-09-16,Wednesday,Quali,40 min,15' EF + 3x(4' AM 4'15-4'20/km + 2' EF) + 4x20'' foulees + 10' EF,Activation pre-semi — rien de plus,5,8
 9,2026-09-17,Thursday,Natation,1h,Cours natation — educatifs tranquilles,Recup active,2,0
 9,2026-09-19,Saturday,Repos,—,Repos complet + reperage sas depart + preparation tenue/gel,Fraicheur J-1 semi,1,0
-9,2026-09-20,Sunday,Course,1h26-1h32,"SEMI-MARATHON DE MARCQ — plan A si frais: 4'05-4'08/km. Plan B si trail dans les jambes: 4'10-4'15/km. 1 gel a 45'. Depart PRUDENT, acceleration possible apres 14e km seulement",Course test — confortablement difficile,9,21
+9,2026-09-20,Sunday,Course,~1h40 (30 km jour),"SEMI DE MARCQ en mode ENTRAINEMENT (pas a fond) : 7 km jog actif + 14 km allure marathon 4'15-4'20/km, un poil plus vite sur les derniers km si sensations. 1 gel a 45'. Se controler = tout l'interet",Semi en mode specifique marathon (pas de chrono),9,21
 10,2026-09-22,Tuesday,EF,40 min,40' EF souple 5'10-5'35/km,Recup post-semi,2,7
 10,2026-09-23,Wednesday,Quali,50 min,15' EF + 3x4' progressif (SV1 4'40 -> AM 4'18 -> semi 4'02) r=2' + 10' EF,Progressive 3 allures — remise en route (RunWise),6,10
 10,2026-09-24,Thursday,Natation,1h,Cours natation,Recup active,2,0
 10,2026-09-25,Friday,EF,40 min,40' EF 5'10-5'30/km,Volume leger,3,7
-10,2026-09-26,Saturday,SL,1h35,70' EF + 20' AM 4'15-4'20/km + 5' EF — protocole gel course complet,Retour SL — transition specifique,5,18
+10,2026-09-26,Saturday,SL,2h20,"Sortie TRES LONGUE facile 27 km — 5'05-5'25/km tout du long, cote 5-6/10, protocole gel complet (gut training). Installe le volume long avant le specifique",SL tres longue 27 km — endurance + resistance mentale (facile),5,27
 10,2026-09-27,Sunday,Renfo,20 min,Renfo reprise fin de journee — 5 series + 2 tours + mollets,Renfo — reprise apres courses,4,0
 11,2026-09-29,Tuesday,EF,45 min,45' EF 5'05-5'30/km + 6x15'' foulees,Activation,3,8
 11,2026-09-30,Wednesday,Quali,60 min,15' EF + 2x15' AM 4'15-4'20/km r=3' + 10' EF,Blocs AM longs — le coeur du specifique,8,13
@@ -65,7 +65,7 @@ Week,Date,Day,Type,Duration,Details,Targets,RPE,Distance_km
 12,2026-10-06,Tuesday,EF,45 min,45' EF 5'05-5'30/km + 6x15'' foulees,Activation,3,8
 12,2026-10-07,Wednesday,Quali,65 min,15' EF + 3x12' AM 4'15-4'20/km r=3' + 10' EF,Volume AM maximal en seance — derniere grosse quali,8,14
 12,2026-10-08,Thursday,Natation,1h,Cours natation,Recup active,2,0
-12,2026-10-10,Saturday,SL,2h15,95' EF 5'05-5'25/km + 35' AM 4'15-4'20/km + 5' EF — protocole gel COMPLET + Kiprun KD900X,"SL CLE n2 — 25 km, LA sortie de la saison. Test chaussures 2. Verdict allure",7,25
+12,2026-10-10,Saturday,SL,2h20,"SEANCE 10+8 (signature) : long echauffement + 10 km allure marathon 4'15-4'16/km + 1 km jog + 8 km a 4'05-4'10/km (un poil plus vite, allure 15 km sur la fin si ca va) + retour au calme. 4-5 gels (1 tous les 5 km). Kiprun KD900X. FIXE l'allure de course + teste nutrition","SL VERDICT — seance 10+8, allure de course + test chaussures/nutrition",7,27
 12,2026-10-11,Sunday,Renfo,15 min,DERNIER renfo — version legere 4 series + mollets uniquement. STOP renfo apres cette date (J-14),Renfo final,3,0
 13,2026-10-13,Tuesday,EF,40 min,40' EF 5'10-5'30/km,Debut taper — on relache,3,7
 13,2026-10-14,Wednesday,Quali,50 min,15' EF + 4x(6' AM 4'15-4'20/km + 2' EF) + 10' EF,"Rappel AM — volume reduit, fraicheur qui monte",6,11
