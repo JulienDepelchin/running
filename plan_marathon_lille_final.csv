@@ -59,22 +59,24 @@ Week,Date,Day,Type,Duration,Details,Targets,RPE,Distance_km
 11,2026-09-29,Tuesday,EF,45 min,45' EF 5'05-5'30/km + 6x15'' foulees,Activation,3,8
 11,2026-09-30,Wednesday,Quali,60 min,15' EF + 2x15' AM 4'15-4'20/km r=3' + 10' EF,Blocs AM longs — le coeur du specifique,8,13
 11,2026-10-01,Thursday,Natation,1h,Cours natation,Recup active,2,0
-11,2026-10-02,Friday,EF,40 min,40' EF 5'10-5'30/km,Volume leger,3,7
-11,2026-10-03,Saturday,SL,2h10,95' EF 5'05-5'25/km + 30' AM 4'15-4'20/km + 5' EF — protocole gel COMPLET + tenue course + Hoka Rocket X2,"SL CLE n1 — 25 km, test chaussures 1 + 30' AM",7,25
-11,2026-10-04,Sunday,Renfo,20 min,Renfo fin de journee — 5 series + 2 tours + mollets,Renfo — entretien,4,0
-12,2026-10-06,Tuesday,EF,45 min,45' EF 5'05-5'30/km + 6x15'' foulees,Activation,3,8
-12,2026-10-07,Wednesday,Quali,65 min,15' EF + 3x12' AM 4'15-4'20/km r=3' + 10' EF,Volume AM maximal en seance — derniere grosse quali,8,14
-12,2026-10-08,Thursday,Natation,1h,Cours natation,Recup active,2,0
-12,2026-10-10,Saturday,SL,2h20,"SEANCE 10+8 (signature) : long echauffement + 10 km allure marathon 4'15-4'16/km + 1 km jog + 8 km a 4'05-4'10/km (un poil plus vite, allure 15 km sur la fin si ca va) + retour au calme. 4-5 gels (1 tous les 5 km). Kiprun KD900X. FIXE l'allure de course + teste nutrition","SL VERDICT — seance 10+8, allure de course + test chaussures/nutrition",7,27
-12,2026-10-11,Sunday,Renfo,15 min,DERNIER renfo — version legere 4 series + mollets uniquement. STOP renfo apres cette date (J-14),Renfo final,3,0
-13,2026-10-13,Tuesday,EF,40 min,40' EF 5'10-5'30/km,Debut taper — on relache,3,7
-13,2026-10-14,Wednesday,Quali,50 min,15' EF + 4x(6' AM 4'15-4'20/km + 2' EF) + 10' EF,"Rappel AM — volume reduit, fraicheur qui monte",6,11
-13,2026-10-15,Thursday,Natation,1h,Cours natation — tranquille,Recup active,2,0
-13,2026-10-17,Saturday,SL,1h25,"55' EF + 20' AM 4'15-4'20/km + 10' EF — repetition generale complete: tenue, gels, petit-dej course",SL taper — generale du jour J,5,16
-13,2026-10-18,Sunday,Repos,—,Repos complet — pas de renfo (stop depuis le 11/10),Fraicheur,1,0
-14,2026-10-20,Tuesday,EF,35 min,35' EF 5'10-5'30/km + 4x15'' accelerations,Deverrouillage,2,6
-14,2026-10-21,Wednesday,Quali,40 min,15' EF + 3x(4' AM 4'15-4'20/km + 2' EF) + 10' EF,Dernier rappel allure — court et frais,5,8
-14,2026-10-22,Thursday,Natation,30-45 min,"Cours natation ECOURTE — uniquement educatifs doux, zero intensite",Activation legere J-3,1,0
-14,2026-10-23,Friday,Repos,—,"Repos complet + preparation logistique (dossard, tenue, gels, reperage sas)",J-2 — pilote automatique,1,0
-14,2026-10-24,Saturday,EF,20 min,20' EF tres souple + 4x20'' a allure marathon,Deverrouillage J-1,2,3
-14,2026-10-25,Sunday,Course,2h59-3h02,"MARATHON DE LILLE — allure 4'15-4'16/km REGULIERE. 30 premiers km = balade concentree. Gels a 34' 68' 102' 136' + flasque des le depart. Bilan au 30e: si ok, accelerer doucement apres 34e. Bornes km > montre GPS. SOURIRE dans le dur",OBJECTIF SUB 3H,10,42
+11,2026-10-02,Friday,EF,25 min,"BLESSURE (dechirure grand adducteur droit grade 1, kine 02/10) - sortie test 25' a 5'40/km, aucune douleur",Test reprise - feu vert,2,4
+11,2026-10-03,Saturday,Repos,—,SL 25 km annulee (blessure),Cicatrisation,1,0
+11,2026-10-04,Sunday,EF,46 min,8 km EF sans douleur + exercices kine adducteurs,Reprise volume,3,8
+12,2026-10-06,Tuesday,EF,45 min,"45' EF 5'20-5'40/km, terrain plat, pas d'accelerations. Exos kine le soir. Stop si douleur",Reconstruire le volume - zero intensite,3,8
+12,2026-10-07,Wednesday,HomeTrainer,60 min,"HOME TRAINER : 15' souple + 3x12' tempo soutenu assis, cadence 85-95, sans relance explosive (r=3' souple) + 10' souple",Intensite transposee sur velo (consigne kine semaine 1),6,0
+12,2026-10-08,Thursday,Natation,1h,"Cours natation - CRAWL uniquement (pull-buoy si besoin), PAS de brasse",Recup active - menager adducteur,2,0
+12,2026-10-09,Friday,EF,40 min,40' EF 5'15-5'40/km + exos kine,Volume leger,3,7
+12,2026-10-10,Saturday,SL,1h30,"90' EF 5'15-5'35/km, sans portion rapide. Repetition nutrition depart tardif : repas 3h avant, collation 1h15 avant, gel 15' avant + gels toutes les 34' + flasque ISO+. Stop au moindre tiraillement",Retour SL - volume sans intensite,4,17
+12,2026-10-11,Sunday,Renfo,20 min,Programme kine adducteurs + gainage + mobilite hanche (pas de charges lourdes),Renfo cicatrisation,3,0
+13,2026-10-12,Monday,HomeTrainer,45 min,HOME TRAINER 45' endurance souple (option si bonnes sensations),Volume aerobie sans impact,3,0
+13,2026-10-13,Tuesday,EF,45 min,45' EF 5'15-5'35/km + exos kine,Activation,3,8
+13,2026-10-14,Wednesday,Quali,50 min,15' EF + 3x8' AM 4'19-4'23/km (r=2' EF) + 10' EF. TEST FEU VERT allure : douleur = arret immediat et bascule home trainer,Reintroduction AM (J+14 apres blessure),6,11
+13,2026-10-15,Thursday,Natation,1h,"Cours natation - crawl, pas de brasse",Recup active,2,0
+13,2026-10-17,Saturday,SL,1h35,"60' EF + 25' AM 4'19/km + 10' EF. REPETITION GENERALE a 11h15 : reveil, repas riz 8h15, collation 10h, gel 11h, tenue + chaussures course, gels toutes les 34'",SL taper - generale du jour J,5,19
+13,2026-10-18,Sunday,Repos,—,Repos complet - exos kine legers seulement,Fraicheur,1,0
+14,2026-10-20,Tuesday,EF,35 min,35' EF 5'10-5'30/km + 4x15'' accelerations PROGRESSIVES souples (pas de depart explosif),Deverrouillage,2,6
+14,2026-10-21,Wednesday,Quali,40 min,15' EF + 3x(4' AM 4'19/km + 2' EF) + 10' EF,Dernier rappel allure - court et frais,5,8
+14,2026-10-22,Thursday,Natation,30-45 min,"Cours natation ECOURTE - crawl doux, zero intensite, pas de brasse",Activation legere J-3,1,0
+14,2026-10-23,Friday,Repos,—,"Repos complet + logistique (dossard, tenue, 5 gels, flasque ISO+, temps de passage sur la main). Recharge glucidique moderee",J-2 - pilote automatique,1,0
+14,2026-10-24,Saturday,EF,20 min,"20' EF tres souple + 4x20'' a allure marathon. Diner feculents, coucher heure habituelle (changement d'heure : +1h de sommeil)",Deverrouillage J-1,2,3
+14,2026-10-25,Sunday,Course,2h59-3h05,"MARATHON DE LILLE - depart 11h15. Repas 8h15 (riz), collation 10h, gel 11h. Semi en 1h31 (4'19/km). DECISION AU 25e : si tout va bien -> 4'14 jusqu'au 30e, 4'10 jusqu'au 35e, 4'08 jusqu'au bout (2h59'20). Sinon rester 4'19-4'23 (3h02-3h05). Gels a 34' 68' 102' 136' + eau aux ravitos + flasque ISO+. Bornes km > montre GPS. Relache",Negative split - sub 3h si le corps dit oui,10,42
