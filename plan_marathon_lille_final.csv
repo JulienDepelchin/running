@@ -63,16 +63,16 @@ Week,Date,Day,Type,Duration,Details,Targets,RPE,Distance_km
 11,2026-10-03,Saturday,Repos,—,SL 25 km annulee (blessure),Cicatrisation,1,0
 11,2026-10-04,Sunday,EF,46 min,8 km EF sans douleur + exercices kine adducteurs,Reprise volume,3,8
 12,2026-10-06,Tuesday,EF,45 min,"45' EF 5'20-5'40/km, terrain plat, pas d'accelerations. Exos kine le soir. Stop si douleur",Reconstruire le volume - zero intensite,3,8
-12,2026-10-07,Wednesday,HomeTrainer,60 min,"HOME TRAINER : 15' souple + 3x12' tempo soutenu assis, cadence 85-95, sans relance explosive (r=3' souple) + 10' souple",Intensite transposee sur velo (consigne kine semaine 1),6,0
-12,2026-10-08,Thursday,Natation,1h,"Cours natation - CRAWL uniquement (pull-buoy si besoin), PAS de brasse",Recup active - menager adducteur,2,0
+12,2026-10-07,Wednesday,HomeTrainer,48 min,"HOME TRAINER : 2x15' intervalles seuil (Zwift, realise)",Intensite transposee sur velo (consigne kine semaine 1),6,0
+12,2026-10-08,Thursday,Repos,—,"Natation annulee (piscine fermee, probleme technique)",Recup,1,0
 12,2026-10-09,Friday,EF,40 min,40' EF 5'15-5'40/km + exos kine,Volume leger,3,7
 12,2026-10-10,Saturday,SL,1h40,"60-70' EF 5'20-5'40/km terrain plat, sans portion rapide + 30' HOME TRAINER souple. Conditions : zero douleur mardi/vendredi, hematome stable, accord kine. Stop au moindre tiraillement (completer en HT). Repetition nutrition depart tardif : repas 3h avant, gel 15' avant + gels toutes les 34'",Tolerance adducteur a la duree - palier avant la generale du 17/10,4,12
 12,2026-10-11,Sunday,Renfo,20 min,Programme kine adducteurs + gainage + mobilite hanche (pas de charges lourdes),Renfo cicatrisation,3,0
-13,2026-10-12,Monday,HomeTrainer,45 min,HOME TRAINER 45' endurance souple (option si bonnes sensations),Volume aerobie sans impact,3,0
-13,2026-10-13,Tuesday,EF,45 min,45' EF 5'15-5'35/km + exos kine,Activation,3,8
-13,2026-10-14,Wednesday,Quali,50 min,15' EF + 3x8' AM 4'19-4'23/km (r=2' EF) + 10' EF. TEST FEU VERT allure : douleur = arret immediat et bascule home trainer,Reintroduction AM (J+14 apres blessure),6,11
-13,2026-10-15,Thursday,Natation,1h,"Cours natation - crawl, pas de brasse",Recup active,2,0
-13,2026-10-17,Saturday,SL,1h35,"60' EF + 25' AM 4'19/km + 10' EF. REPETITION GENERALE a 11h15 : reveil, repas riz 8h15, collation 10h, gel 11h, tenue + chaussures course, gels toutes les 34'",SL taper - generale du jour J,5,19
+13,2026-10-12,Monday,Repos,—,Repos (home trainer optionnel abandonne),Recup,1,0
+13,2026-10-13,Tuesday,EF,45 min,45' EF 5'15-5'35/km + renfo kine AVEC charges le soir (accent sur la contraction),Activation,3,8
+13,2026-10-14,Wednesday,EF,50 min,"45-50' EF + 4 accelerations progressives de 400 m vers 4'30-4'40/km (1,6 km max, arrets doux). Douleur = arret immediat et bascule home trainer","Contact allure progressif (consigne kine : max 20% de la sortie, a la sensation)",4,9
+13,2026-10-15,Thursday,HomeTrainer,40 min,"HOME TRAINER 40-45' souple, cadence 85-95, sans intensite (piscine fermee)",Cardio sans impact,2,0
+13,2026-10-17,Saturday,SL,1h25,"SL 15-16 km EF 5'20-5'30/km, final progressif 3 km max vers 4'30-4'40 a la sensation (20% max). REPETITION GENERALE a 11h15 : reveil, repas riz 8h15, collation 10h, gel 11h, tenue + chaussures course, gels toutes les 34'","SL taper - generale du jour J (volume avant allure, consigne kine)",4,16
 13,2026-10-18,Sunday,Repos,—,Repos complet - exos kine legers seulement,Fraicheur,1,0
 14,2026-10-20,Tuesday,EF,35 min,"35' EF 5'10-5'30/km + 4x15'' accelerations PROGRESSIVES souples (pas de depart explosif) SLEEP BANKING : coucher 1h plus tot, sieste si possible.",Deverrouillage,2,6
 14,2026-10-21,Wednesday,Quali,40 min,"15' EF + 3x(4' AM 4'19/km + 2' EF) + 10' EF SLEEP BANKING : coucher 1h plus tot, sieste si possible.",Dernier rappel allure - court et frais,5,8
