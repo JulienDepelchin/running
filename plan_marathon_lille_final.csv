@@ -72,11 +72,12 @@ Week,Date,Day,Type,Duration,Details,Targets,RPE,Distance_km
 13,2026-10-13,Tuesday,EF,45 min,45' EF 5'15-5'35/km + renfo kine AVEC charges le soir (accent sur la contraction),Activation,3,8
 13,2026-10-14,Wednesday,EF,50 min,"45-50' EF + 4 accelerations progressives de 400 m vers 4'30-4'40/km (1,6 km max, arrets doux). Douleur = arret immediat et bascule home trainer","Contact allure progressif (consigne kine : max 20% de la sortie, a la sensation)",4,9
 13,2026-10-15,Thursday,HomeTrainer,40 min,"HOME TRAINER 40-45' souple, cadence 85-95, sans intensite (piscine fermee)",Cardio sans impact,2,0
-13,2026-10-17,Saturday,SL,1h20,"SL 15 km EF 5'20-5'30/km, final progressif 3 km max vers 4'30-4'40 a la sensation (20% max). REPETITION GENERALE a 11h15 : reveil, repas riz 8h15, collation 10h, gel 11h, tenue + chaussures course, gels toutes les 34'","SL taper - generale du jour J (volume avant allure, consigne kine)",4,15
-13,2026-10-18,Sunday,Repos,—,Repos complet - exos kine legers seulement,Fraicheur,1,0
+13,2026-10-17,Saturday,Repos,—,SL decalee au dimanche 18/10,Recup,1,0
+13,2026-10-18,Sunday,SL,1h15,"SL 15 km realisee : 10 km EF 5'08-5'20/km puis 4 km a allure marathon (4'25, 4'25, 4'20, 4'18), FC 148-154, sans douleur. Depart 15h32 (repetition 11h15 non reproduite)",SL taper - bloc allure marathon valide,5,15
+14,2026-10-19,Monday,Natation,45 min,"Cours natation - crawl, pas de brasse (piscine rouverte)",Recup active,2,0
 14,2026-10-20,Tuesday,EF,35 min,"35' EF 5'10-5'30/km + 4x15'' accelerations PROGRESSIVES souples (pas de depart explosif) SLEEP BANKING : coucher 1h plus tot, sieste si possible.",Deverrouillage,2,6
 14,2026-10-21,Wednesday,Quali,40 min,"15' EF + 3x(4' AM 4'19/km + 2' EF) + 10' EF SLEEP BANKING : coucher 1h plus tot, sieste si possible.",Dernier rappel allure - court et frais,5,8
-14,2026-10-22,Thursday,Natation,30-45 min,"Cours natation ECOURTE - crawl doux, zero intensite, pas de brasse SLEEP BANKING : coucher 1h plus tot, sieste si possible.",Activation legere J-3,1,0
+14,2026-10-22,Thursday,Repos,—,"Repos (natation deplacee au lundi 19/10) - exos kine legers SLEEP BANKING : coucher 1h plus tot, sieste si possible.",J-3 - fraicheur,1,0
 14,2026-10-23,Friday,Repos,—,"Repos complet + logistique (dossard, tenue, 5 gels, flasque ISO+, temps de passage sur la main). Recharge glucidique moderee, charge mentale minimale (sac pret) SLEEP BANKING : coucher 1h plus tot, sieste si possible.",J-2 - pilote automatique,1,0
 14,2026-10-24,Saturday,EF,20 min,"20' EF tres souple + 4x20'' a allure marathon. Diner feculents, coucher heure habituelle (changement d'heure : +1h de sommeil) SLEEP BANKING : coucher 1h plus tot, sieste si possible.",Deverrouillage J-1,2,3
 14,2026-10-25,Sunday,Course,2h59-3h05,"MARATHON DE LILLE - depart 11h15. Repas 8h15 (riz), collation 10h, gel 11h. Semi en 1h31 (4'19/km). DECISION AU 25e : si tout va bien -> 4'14 jusqu'au 30e, 4'10 jusqu'au 35e, 4'08 jusqu'au bout (2h59'20). Sinon rester 4'19-4'23 (3h02-3h05). Gels a 34' 68' 102' 136' + eau aux ravitos + flasque ISO+. Bornes km > montre GPS. Relache",Negative split - sub 3h si le corps dit oui,10,42
