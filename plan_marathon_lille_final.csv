@@ -1,88 +1,57 @@
 Week,Date,Day,Type,Duration,Details,Targets,RPE,Distance_km
-1,2026-07-21,Tuesday,EF,45 min,45' EF 5'05-5'30/km + 6x15'' foulees r=45'',Reprise structuree post-test VMA,3,8
-1,2026-07-22,Wednesday,Quali,55 min,15' EF + Fartlek 12x(1' allure semi 4'00-4'05/km + 1' SV1 4'35-4'45/km) sans pause + 10' EF,Fartlek continu — vitesse+endurance (RunWise),7,11
-1,2026-07-24,Friday,EF,45 min,45' EF 5'05-5'30/km,Volume facile,3,8
-1,2026-07-25,Saturday,SL,1h20,60' EF 5'05-5'25/km + 15' AM 4'15-4'20/km + 5' EF — 1 gel a 45',SL + premier bloc AM + gut training,5,15
-1,2026-07-26,Sunday,Renfo,25 min,Renfo fin de journee — 5 series fentes bulgares EMOM + 2 tours step-ups/leg curl + 3x10 mollets excentriques,Renfo post-SL sur jambes pre-fatiguees,5,0
-2,2026-07-27,Monday,EF,40 min,"40' EF tres souple 5'15-5'40/km — SEANCE FUSIBLE (footing doux sur courbatures du renfo, benefique recup). Saute en PREMIER si nuit hachee / fatigue",5e seance — bonus volume,3,7
-2,2026-07-28,Tuesday,EF,45 min,45' EF 5'05-5'30/km + 6x15'' foulees,Relachement,3,8
-2,2026-07-29,Wednesday,Quali,50 min,15' EF + 2x8x(30'' VMA 3'36/km + 30'' trot) r=3' entre blocs + 10' EF,Cycle VMA sem.1 — les 30/30 aperitif (RunningAddict),7,10
-2,2026-07-31,Friday,EF,45 min,45' EF 5'05-5'30/km,Volume,3,8
-2,2026-08-01,Saturday,SL,1h30,70' EF 5'05-5'25/km + 15' AM 4'15-4'20/km + 5' EF — gels toutes les 45',SL progression volume,5,17
-2,2026-08-02,Sunday,Renfo,25 min,Renfo fin de journee — 5 series bulgares + 2 tours + mollets,Renfo — installation,5,0
-3,2026-08-03,Monday,EF,40 min,"40' EF tres souple 5'15-5'40/km — SEANCE FUSIBLE (footing doux sur courbatures du renfo, benefique recup). Saute en PREMIER si nuit hachee / fatigue",5e seance — bonus volume,3,7
-3,2026-08-04,Tuesday,EF,45 min,45' EF 5'05-5'30/km + 6x15'' foulees,Activation,3,8
-3,2026-08-05,Wednesday,Quali,55 min,15' EF + 8x(1' VMA 3'36/km + 1' trot) + 10' EF,Cycle VMA sem.2 — fractions 1'/1' meme allure,7,10
-3,2026-08-07,Friday,EF,45 min,45' EF 5'05-5'30/km,Volume,3,8
-3,2026-08-08,Saturday,SL,1h40,75' EF 5'05-5'25/km + 20' AM 4'15-4'20/km + 5' EF — gels toutes les 45',SL — bloc AM qui s'allonge,5,19
-3,2026-08-09,Sunday,Renfo,25 min,Renfo fin de journee — 6 series bulgares + 3 tours + mollets,Renfo — montee en charge,5,0
-4,2026-08-11,Tuesday,EF,40 min,40' EF 5'10-5'30/km,Relache — recup,3,7
-4,2026-08-12,Wednesday,Quali,45 min,15' EF + 2x(8' AM 4'15-4'20/km + 2' EF) + 10' EF,Rappel AM leger — semaine d'assimilation,6,9
-4,2026-08-14,Friday,EF,40 min,40' EF souple 5'10-5'30/km,Souplesse,3,7
-4,2026-08-15,Saturday,SL,1h20,"SL 100% EF 5'05-5'25/km — terrain varie, sans structure, plaisir",SL libre assimilation,4,15
-4,2026-08-16,Sunday,Renfo,20 min,Renfo allege fin de journee — 4 series bulgares + 2 tours + mollets,Renfo — entretien,4,0
-5,2026-08-17,Monday,EF,40 min,"40' EF tres souple 5'15-5'40/km — SEANCE FUSIBLE (footing doux sur courbatures du renfo, benefique recup). Saute en PREMIER si nuit hachee / fatigue",5e seance — bonus volume,3,7
-5,2026-08-18,Tuesday,EF,45 min,45' EF 5'05-5'30/km + 6x15'' foulees,Activation,3,8
-5,2026-08-19,Wednesday,Quali,55 min,15' EF + 6x(90'' VMA 3'36/km + 90'' trot) + 10' EF,Cycle VMA sem.3 — fractions 90'',8,10
-5,2026-08-21,Friday,EF,45 min,45' EF 5'05-5'30/km,Volume,3,8
-5,2026-08-22,Saturday,SL,1h45,70' EF + Canova light 4x(1 km AM 4'15-4'20/km + 1 km SV1 4'40-4'50/km) + 10' EF — gels toutes les 45',SL Canova — recuperer en courant vite (RunWise),6,20
-5,2026-08-23,Sunday,Renfo,25 min,Renfo fin de journee — 6-7 series bulgares + 3 tours + mollets + pause 2'' bas squat,Renfo — charge,5,0
-6,2026-08-24,Monday,EF,40 min,"40' EF tres souple 5'15-5'40/km — SEANCE FUSIBLE (footing doux sur courbatures du renfo, benefique recup). Saute en PREMIER si nuit hachee / fatigue",5e seance — bonus volume,3,7
-6,2026-08-25,Tuesday,EF,45 min,45' EF 5'05-5'30/km + 6x15'' foulees,Activation,3,8
-6,2026-08-26,Wednesday,Quali,60 min,15' EF + 2x3000m allure semi 4'00-4'05/km r=3' + 4x300m AS10 3'50/km r=50'' + 10' EF,Seance mixte multi-allures (RunWise),8,12
-6,2026-08-28,Friday,EF,45 min,45' EF 5'05-5'30/km,Volume,3,8
-6,2026-08-29,Saturday,SL,2h05,90' EF 5'05-5'25/km + 25' AM 4'15-4'20/km + 5' EF — gels toutes les 45',SL majeure pre-septembre — montee a 24 km (socle volume),6,24
-6,2026-08-30,Sunday,Renfo,25 min,Renfo fin de journee — 7 series bulgares + 3 tours + mollets,Renfo — charge,5,0
-7,2026-09-01,Tuesday,EF,45 min,45' EF 5'05-5'30/km + 6x15'' foulees,Activation,3,8
-7,2026-09-02,Wednesday,Quali,50 min,15' EF + 3x(6' AM 4'15-4'20/km + 2' EF) + 2x(2' allure semi 4'00/km + 1' EF) + 10' EF,Mixte AM/semi — maintien qualites,7,10
-7,2026-09-03,Thursday,Natation,1h,"Cours natation — educatifs, intensite faible. Prend le relais de la 5e seance course",Reprise natation — recup active,2,0
-7,2026-09-04,Friday,EF,40 min,40' EF 5'10-5'30/km,Volume leger,3,7
-7,2026-09-05,Saturday,SL,1h30,65' EF + 20' AM 4'15-4'20/km + 5' EF — gels,SL moderee a J-7 du trail,5,17
-7,2026-09-06,Sunday,Renfo,20 min,Renfo allege fin de journee — 5 series + 2 tours + mollets,Renfo — entretien pre-courses,4,0
-8,2026-09-08,Tuesday,EF,40 min,40' EF souple 5'10-5'30/km + 4x20'' accelerations,Affutage pre-trail,3,7
-8,2026-09-09,Wednesday,Quali,40 min,15' EF + 2x(5' AM 4'15-4'20/km + 2' EF) + 4x30'' cotes effort + 10' EF,Activation legere + rappel cotes,5,8
-8,2026-09-10,Thursday,Natation,45 min,"Cours natation — tres souple, ecourter si possible",Recup active J-2,2,0
-8,2026-09-11,Friday,Repos,—,"Repos complet — preparation materiel + reperage parcours en ligne (profil, ravitos)",Fraicheur J-1 — pilote automatique,1,0
-8,2026-09-12,Saturday,Course,~1h35-1h45,"TRAIL COTE D'OPALE — 21 km D+260m — depart prudent, gestion aux sensations, pas de montre sur l'allure, dernier tiers si jambes ok",Course stimulus n1 — gestion,8,21
-8,2026-09-13,Sunday,Repos,—,Repos complet post-trail — PAS de renfo ce week-end,Recuperation,1,0
-9,2026-09-15,Tuesday,EF,35 min,35' EF tres souple 5'20-5'40/km,Recup active post-trail,2,6
-9,2026-09-16,Wednesday,Quali,40 min,15' EF + 3x(4' AM 4'15-4'20/km + 2' EF) + 4x20'' foulees + 10' EF,Activation pre-semi — rien de plus,5,8
-9,2026-09-17,Thursday,Natation,1h,Cours natation — educatifs tranquilles,Recup active,2,0
-9,2026-09-19,Saturday,Repos,—,Repos complet + reperage sas depart + preparation tenue/gel,Fraicheur J-1 semi,1,0
-9,2026-09-20,Sunday,Course,~1h40 (30 km jour),"SEMI DE MARCQ en mode ENTRAINEMENT (pas a fond) : 7 km jog actif + 14 km allure marathon 4'15-4'20/km, un poil plus vite sur les derniers km si sensations. 1 gel a 45'. Se controler = tout l'interet",Semi en mode specifique marathon (pas de chrono),9,21
-10,2026-09-22,Tuesday,EF,40 min,40' EF souple 5'10-5'35/km,Recup post-semi,2,7
-10,2026-09-23,Wednesday,Quali,50 min,15' EF + 3x4' progressif (SV1 4'40 -> AM 4'18 -> semi 4'02) r=2' + 10' EF,Progressive 3 allures — remise en route (RunWise),6,10
-10,2026-09-24,Thursday,Natation,1h,Cours natation,Recup active,2,0
-10,2026-09-25,Friday,EF,40 min,40' EF 5'10-5'30/km,Volume leger,3,7
-10,2026-09-26,Saturday,SL,2h20,"Sortie TRES LONGUE facile 27 km — 5'05-5'25/km tout du long, cote 5-6/10, protocole gel complet (gut training). Installe le volume long avant le specifique",SL tres longue 27 km — endurance + resistance mentale (facile),5,27
-10,2026-09-27,Sunday,Renfo,20 min,Renfo reprise fin de journee — 5 series + 2 tours + mollets,Renfo — reprise apres courses,4,0
-11,2026-09-29,Tuesday,EF,45 min,45' EF 5'05-5'30/km + 6x15'' foulees,Activation,3,8
-11,2026-09-30,Wednesday,Quali,60 min,15' EF + 2x15' AM 4'15-4'20/km r=3' + 10' EF,Blocs AM longs — le coeur du specifique,8,13
-11,2026-10-01,Thursday,Natation,1h,Cours natation,Recup active,2,0
-11,2026-10-02,Friday,EF,25 min,"BLESSURE (dechirure grand adducteur droit grade 1, kine 02/10) - sortie test 25' a 5'40/km, aucune douleur",Test reprise - feu vert,2,4
-11,2026-10-03,Saturday,Repos,—,SL 25 km annulee (blessure),Cicatrisation,1,0
-11,2026-10-04,Sunday,EF,46 min,8 km EF sans douleur + exercices kine adducteurs,Reprise volume,3,8
-12,2026-10-06,Tuesday,EF,45 min,"45' EF 5'20-5'40/km, terrain plat, pas d'accelerations. Exos kine le soir. Stop si douleur",Reconstruire le volume - zero intensite,3,8
-12,2026-10-07,Wednesday,HomeTrainer,48 min,"HOME TRAINER : 2x15' intervalles seuil (Zwift, realise)",Intensite transposee sur velo (consigne kine semaine 1),6,0
-12,2026-10-08,Thursday,Repos,—,"Natation annulee (piscine fermee, probleme technique)",Recup,1,0
-12,2026-10-09,Friday,EF,40 min,40' EF 5'15-5'40/km + exos kine,Volume leger,3,7
-12,2026-10-10,Saturday,SL,1h40,"60-70' EF 5'20-5'40/km terrain plat, sans portion rapide + 30' HOME TRAINER souple. Conditions : zero douleur mardi/vendredi, hematome stable, accord kine. Stop au moindre tiraillement (completer en HT). Repetition nutrition depart tardif : repas 3h avant, gel 15' avant + gels toutes les 34'",Tolerance adducteur a la duree - palier avant la generale du 17/10,4,12
-12,2026-10-11,Sunday,Renfo,20 min,Programme kine adducteurs + gainage + mobilite hanche (pas de charges lourdes),Renfo cicatrisation,3,0
-13,2026-10-12,Monday,Repos,—,Repos (home trainer optionnel abandonne),Recup,1,0
-13,2026-10-13,Tuesday,EF,45 min,45' EF 5'15-5'35/km + renfo kine AVEC charges le soir (accent sur la contraction),Activation,3,8
-13,2026-10-14,Wednesday,EF,50 min,"45-50' EF + 4 accelerations progressives de 400 m vers 4'30-4'40/km (1,6 km max, arrets doux). Douleur = arret immediat et bascule home trainer","Contact allure progressif (consigne kine : max 20% de la sortie, a la sensation)",4,9
-13,2026-10-15,Thursday,HomeTrainer,40 min,"HOME TRAINER 40-45' souple, cadence 85-95, sans intensite (piscine fermee)",Cardio sans impact,2,0
-13,2026-10-17,Saturday,Repos,—,SL decalee au dimanche 18/10,Recup,1,0
-13,2026-10-18,Sunday,SL,1h15,"SL 15 km realisee : 10 km EF 5'08-5'20/km puis 4 km a allure marathon (4'25, 4'25, 4'20, 4'18), FC 148-154, sans douleur. Depart 15h32 (repetition 11h15 non reproduite)",SL taper - bloc allure marathon valide,5,15
-14,2026-10-19,Monday,Natation,45 min,"Cours natation - crawl, pas de brasse (piscine rouverte)",Recup active,2,0
-14,2026-10-20,Tuesday,EF,35 min,"35' EF 5'10-5'30/km + 4x15'' accelerations PROGRESSIVES souples (pas de depart explosif) SLEEP BANKING : coucher 1h plus tot, sieste si possible.",Deverrouillage,2,6
-14,2026-10-21,Wednesday,Quali,40 min,"15' EF + 3x(4' AM 4'19/km + 2' EF) + 10' EF SLEEP BANKING : coucher 1h plus tot, sieste si possible.",Dernier rappel allure - court et frais,5,8
-14,2026-10-22,Thursday,Repos,—,"Repos (natation deplacee au lundi 19/10) - exos kine legers SLEEP BANKING : coucher 1h plus tot, sieste si possible.",J-3 - fraicheur,1,0
-14,2026-10-23,Friday,Repos,—,"Repos complet + logistique (dossard, tenue, 5 gels, flasque ISO+, temps de passage sur la main). Recharge glucidique moderee, charge mentale minimale (sac pret) SLEEP BANKING : coucher 1h plus tot, sieste si possible.",J-2 - pilote automatique,1,0
-14,2026-10-24,Saturday,EF,20 min,"20' EF tres souple + 4x20'' a allure marathon. Diner feculents, coucher heure habituelle (changement d'heure : +1h de sommeil) SLEEP BANKING : coucher 1h plus tot, sieste si possible.",Deverrouillage J-1,2,3
-14,2026-10-25,Sunday,Course,2h59-3h05,"MARATHON DE LILLE - depart 11h15. Repas 8h15 (riz), collation 10h, gel 11h. Km 1-5 les plus lents (4'22-4'24, 5 km vers 22'00) puis 4'19 : semi vers 1h31'10 (bornes km > montre). DECISION AU 25e : si tout va bien -> 4'14 jusqu'au 30e, 4'10 jusqu'au 35e, 4'08 jusqu'au bout (2h59'39, marge 21 s). Sinon rester 4'19-4'23 (3h02-3h05). GELS avant chaque ravito (ravitos tous les 5 km des le km 5 : eau 33 cl bouchon sport + ravito solide, rien de nouveau) : gel pris lentement des 600-800 m precedents puis eau au ravito, aux km 9, 19, 29 et 34 (le 4e si besoin) + flasque ISO+. Postes de rafraichissement aux km 27,5 / 32,5 / 37,5 : eau seulement, pas de gel. Si adducteur tire ou fatigue : 4'23-4'25 (3h04-3h06 = record 2021 battu) Bornes km > montre GPS. Relache",Negative split - sub 3h si le corps dit oui,10,42
-15,2026-10-26,Monday,Repos,—,"Repos complet - marche legere seulement. Proteines + glucides, sommeil. Pas de course pendant 7 jours minimum",Recuperation post-marathon,1,0
-15,2026-10-28,Wednesday,HomeTrainer,30 min,"OPTIONNEL : 30' home trainer tres souple, zero intensite",Recup active sans impact,1,0
-15,2026-10-29,Thursday,Natation,45 min,"Natation douce, crawl, pas de brasse (adducteur)",Recup active,1,0
-15,2026-10-31,Saturday,HomeTrainer,45 min,OPTIONNEL : 45' home trainer souple,Recup active sans impact,2,0
-16,2026-11-02,Monday,EF,30 min,Reprise : 30' EF tres souple SI envie de courir et zero douleur adducteur. Sinon attendre (jusqu'a 2 semaines),Reprise post-marathon,2,5
+1,2026-11-02,Monday,Natation,1h,"Reprise en douceur apres le marathon, crawl souple",Technique + endurance,4,0
+1,2026-11-03,Tuesday,HomeTrainer,40 min,"HT 40' tres souple (Zwift balade), zero intensite + renfo leger 15' apres (poids du corps : mollets 2x15, hanches, gainage)",Recup active sans impact,2,0
+1,2026-11-04,Wednesday,Repos,—,Repos complet,Recup,1,0
+1,2026-11-05,Thursday,EF,30 min,"30' EF 5'30-5'50/km - premiere sortie, tres facile, stop si gene",Reprise,3,5
+1,2026-11-06,Friday,HomeTrainer,45 min,"HT 45' souple Zwift, zero intensite",Recup active sans impact,3,0
+1,2026-11-07,Saturday,Repos,—,Repos complet,Recup,1,0
+1,2026-11-08,Sunday,SL,45',"SL 45' en EF 5'25-5'45/km, finir facile",Reprise,3,8
+2,2026-11-09,Monday,Repos,—,Repos complet,Recup,1,0
+2,2026-11-10,Tuesday,EF,35 min,"35' EF 5'20-5'45/km + renfo allege 15' apres (2 series par exo, charges moderees)",Reprise,3,6
+2,2026-11-11,Wednesday,Natation,35 min,"Midi, 35' effectives : 300 m echauffement, 6x50 educatifs, 8x100 r=20'' regulier, 200 retour calme",Technique + frequence,3,0
+2,2026-11-12,Thursday,EF,40 min,40' EF 5'20-5'45/km,Reprise,3,7
+2,2026-11-13,Friday,HomeTrainer,50 min,"HT 50' souple Zwift, Z1-Z2",Cardio sans impact,3,0
+2,2026-11-14,Saturday,Repos,—,Repos complet,Recup,1,0
+2,2026-11-15,Sunday,SL,50',"SL 50' en EF 5'25-5'45/km, finir facile",Reprise,3,9
+3,2026-11-16,Monday,Natation,1h,"Club 20h (1h, selon programme du club)",Technique + endurance,4,0
+3,2026-11-17,Tuesday,EF,40 min,"40' EF 5'20-5'45/km + renfo AVEC charges 20' juste apres : mollets unipodal sur marche 3x12, squat ou presse 3x8, fente bulgare 3x8, ischios 3x10, gainage",Base aerobie,3,7
+3,2026-11-18,Wednesday,Repos,—,Repos complet,Recup,1,0
+3,2026-11-19,Thursday,EF,40 min,40' EF 5'20-5'45/km + 4x15'' foulees (95 %) r=45'',Base + reveil neuromusculaire,3,7
+3,2026-11-20,Friday,HomeTrainer,60 min,"Zwift fond Z2 60' : respiration facile, pas de seuil. 40 g glucides/h + renfo AVEC charges 20' juste apres : mollets unipodal sur marche 3x12, squat ou presse 3x8, fente bulgare 3x8, ischios 3x10, gainage",Fond aerobie,3,0
+3,2026-11-21,Saturday,Repos,—,Repos complet,Recup,1,0
+3,2026-11-22,Sunday,SL,1h,"SL 1h en EF 5'25-5'45/km, finir facile",Sortie longue facile,3,11
+4,2026-11-23,Monday,Repos,—,Repos complet,Recup,1,0
+4,2026-11-24,Tuesday,EF,45 min,"45' EF 5'20-5'45/km + renfo AVEC charges 20' juste apres : mollets unipodal sur marche 3x12, squat ou presse 3x8, fente bulgare 3x8, ischios 3x10, gainage",Base aerobie,3,8
+4,2026-11-25,Wednesday,Natation,35 min,"Midi, 35' effectives : 300 m echauffement, 6x50 educatifs, 8x100 r=20'' regulier, 200 retour calme",Technique + frequence,3,0
+4,2026-11-26,Thursday,EF,45 min,45' EF 5'20-5'45/km + 6x15'' foulees (95 %) r=45'',Base + reveil neuromusculaire,3,8
+4,2026-11-27,Friday,HomeTrainer,75 min,"Zwift fond Z2 75' : facile, 50 g glucides/h (gut training) + renfo AVEC charges 20' juste apres : mollets unipodal sur marche 3x12, squat ou presse 3x8, fente bulgare 3x8, ischios 3x10, gainage",Fond aerobie,3,0
+4,2026-11-28,Saturday,Repos,—,Repos complet,Recup,1,0
+4,2026-11-29,Sunday,SL,1h05,"SL 1h05 en EF 5'25-5'45/km, finir facile",Sortie longue facile,3,12
+5,2026-11-30,Monday,Natation,1h,"Club 20h (1h, selon programme du club)",Technique + endurance,4,0
+5,2026-12-01,Tuesday,EF,45 min,"45' EF 5'20-5'45/km + renfo AVEC charges 20' juste apres : mollets unipodal sur marche 3x12, squat ou presse 3x8, fente bulgare 3x8, ischios 3x10, gainage",Base aerobie,3,8
+5,2026-12-02,Wednesday,Repos,—,Repos complet,Recup,1,0
+5,2026-12-03,Thursday,EF,50 min,15' EF + 6x20'' cotes vives 3-4 % (r=descente trot) + 15' EF 5'20-5'45/km,Force + vitesse douce,5,9
+5,2026-12-04,Friday,HomeTrainer,50 min,"Zwift COURSE 45-50' : 10' echauffement progressif + course (partir prudent, 30-35' d'effort max) + 10' retour calme",Cardio - remplace une qualite,7,0
+5,2026-12-05,Saturday,Repos,—,Repos complet,Recup,1,0
+5,2026-12-06,Sunday,SL,1h10,"SL 1h10 en EF 5'25-5'45/km, finir facile",Sortie longue facile,3,13
+6,2026-12-07,Monday,Repos,—,Repos complet,Recup,1,0
+6,2026-12-08,Tuesday,EF,40 min,"40' EF 5'20-5'45/km + renfo allege 15' apres (2 series par exo, charges moderees)",Semaine allegee,3,7
+6,2026-12-09,Wednesday,Natation,35 min,"Midi, 35' effectives : 300 m echauffement, 6x50 educatifs, 8x100 r=20'' regulier, 200 retour calme",Technique + frequence,3,0
+6,2026-12-10,Thursday,EF,40 min,40' EF 5'20-5'45/km,Semaine allegee,3,7
+6,2026-12-11,Friday,HomeTrainer,60 min,"HT 60' souple Zwift, Z1-Z2",Recup active,3,0
+6,2026-12-12,Saturday,Repos,—,Repos complet,Recup,1,0
+6,2026-12-13,Sunday,SL,55',"SL 55' en EF 5'25-5'45/km, finir facile",Semaine allegee,3,10
+7,2026-12-14,Monday,Natation,1h,"Club 20h (1h, selon programme du club)",Technique + endurance,4,0
+7,2026-12-15,Tuesday,EF,45 min,"45' EF 5'20-5'45/km + renfo AVEC charges 20' juste apres : mollets unipodal sur marche 3x12, squat ou presse 3x8, fente bulgare 3x8, ischios 3x10, gainage",Base aerobie,3,8
+7,2026-12-16,Wednesday,Repos,—,Repos complet,Recup,1,0
+7,2026-12-17,Thursday,Quali,1h,15' EF + 3x8' SV1 4'35-4'45/km (r=2' EF) + 10' EF,Seuil souple (seuil 1) - premiere qualite,6,10
+7,2026-12-18,Friday,HomeTrainer,50 min,"Zwift COURSE 45-50' : 10' echauffement progressif + course (partir prudent, 30-35' d'effort max) + 10' retour calme",Cardio - remplace une qualite,7,0
+7,2026-12-19,Saturday,Repos,—,Repos complet,Recup,1,0
+7,2026-12-20,Sunday,SL,1h15,"SL 1h15 en EF 5'25-5'45/km, finir facile",Sortie longue facile,3,14
+8,2026-12-21,Monday,Repos,—,Repos complet,Recup,1,0
+8,2026-12-22,Tuesday,EF,45 min,"45' EF 5'20-5'45/km + renfo AVEC charges 20' juste apres : mollets unipodal sur marche 3x12, squat ou presse 3x8, fente bulgare 3x8, ischios 3x10, gainage",Base aerobie,3,8
+8,2026-12-23,Wednesday,Natation,35 min,"Midi, 35' effectives : 300 m echauffement, 6x50 educatifs, 8x100 r=20'' regulier, 200 retour calme",Technique + frequence,3,0
+8,2026-12-24,Thursday,Quali,1h05,15' EF + 3x10' SV1 4'35-4'45/km (r=2' EF) + 10' EF (decaler au mercredi ou vendredi si reveillon),Seuil souple (seuil 1),6,11
+8,2026-12-25,Friday,HomeTrainer,90 min,"Zwift fond Z2 90' : facile, 60 g glucides/h (gut training) + renfo AVEC charges 20' juste apres : mollets unipodal sur marche 3x12, squat ou presse 3x8, fente bulgare 3x8, ischios 3x10, gainage",Fond aerobie,4,0
+8,2026-12-26,Saturday,Repos,—,Repos complet,Recup,1,0
+8,2026-12-27,Sunday,SL,1h20,"SL 1h20 en EF 5'25-5'45/km, finir facile ; 1 gel a 45' pour tester l'assimilation",Sortie longue facile,3,15
