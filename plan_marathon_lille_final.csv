@@ -97,48 +97,48 @@ Week,Date,Day,Type,Duration,Details,Targets,RPE,Distance_km
 14,2027-02-05,Friday,HomeTrainer,75 min,"Zwift fond Z2 75' : facile, 60 g glucides/h (gut training) + renfo AVEC charges 20' juste apres : mollets unipodal sur marche 3x12, squat ou presse 3x8, fente bulgare 3x8, ischios 3x10, gainage",Fond aerobie,3,0
 14,2027-02-06,Saturday,Repos,—,Repos complet,Recup,1,0
 14,2027-02-07,Sunday,SL,1h30,"SL 1h30 en EF 5'25-5'45/km, finir facile ; 3 derniers km progressifs vers 4'50",Sortie longue facile,3,16
-15,2027-02-08,Monday,Natation,1h,"Club 20h (1h, selon programme du club)",Technique + endurance,4,0
-15,2027-02-09,Tuesday,EF,40 min,"40' EF 5'20-5'45/km + 5x15'' foulees (95 %) r=45'' + renfo AVEC charges 20' juste apres : mollets unipodal sur marche 3x12, squat ou presse 3x8, fente bulgare 3x8, ischios 3x10, gainage",Base,3,7
+15,2027-02-08,Monday,Natation,1h,Club 20h : facile (semaine de course),Technique + endurance,4,0
+15,2027-02-09,Tuesday,EF,40 min,"40' EF 5'20-5'45/km + 5x15'' foulees (95 %) r=45'' + renfo leger 15' apres (poids du corps : mollets 2x15, hanches, gainage)",Base,3,7
 15,2027-02-10,Wednesday,Repos,—,Repos complet,Recup,1,0
-15,2027-02-11,Thursday,Quali,1h05,15' EF + 3 x 10' SV2 4'08-4'12/km (r=2' EF) + 10' EF,Seuil 2 (SV2) - SV1/SV2 plutot que VMA,7,11
+15,2027-02-11,Thursday,Quali,50 min,15' EF + 6 x (1'30 allure 10 km 3'53-3'58 + 1'30 SV1 4'30) + 10' EF,Rappel d'allure (Canova leger),6,8
 15,2027-02-12,Friday,Repos,—,Repos complet,Recup,1,0
-15,2027-02-13,Saturday,EF,30 min,30' EF 5'20-5'45/km + renfo charges 20' le soir (veille de SL),Base,3,5
-15,2027-02-14,Sunday,SL,1h30,"SL 1h30 en EF 5'25-5'45/km, finir facile dont 2 x 20' SV1 4'30-4'40/km (r=3' jog) ; glucides 40-60 g/h",SL specifique SV1 (RunWise),3,16
+15,2027-02-13,Saturday,EF,20 min,20' EF 5'20-5'45/km + 4x20'' foulees (shakeout veille de course),Fraicheur,3,3
+15,2027-02-14,Sunday,Course,45 min,"10 KM SECONDAIRE (14/02, course a choisir ; sinon test a l'entrainement). Objectif : apprendre le depart et le stress de course, evaluer le niveau, pas de chrono impose. Depart a 3'58-4'00, 2e moitie au ressenti, gel 15' avant. Echauffement 20' + 4 lignes droites. Ne pas jouer le PR.",Objectif secondaire (Maxime) - evaluer le niveau,9,12
 16,2027-02-15,Monday,Repos,—,Repos (pas de natation club cette semaine),Recup,1,0
-16,2027-02-16,Tuesday,EF,40 min,"40' EF 5'20-5'45/km + renfo allege 15' apres (2 series par exo, charges moderees)",Base,3,7
-16,2027-02-17,Wednesday,Natation,35 min,"Midi, 35' effectives : 300 m echauffement, 6x50 educatifs, 8x100 r=20'' regulier, 200 retour calme",Technique + frequence,3,0
-16,2027-02-18,Thursday,Quali,50 min,15' EF + 6 x (1'30 allure 10 km 3'53-3'58 + 1'30 SV1 4'30) + 10' EF,Rappel d'allure (Canova leger),6,8
-16,2027-02-19,Friday,Repos,—,Repos complet,Recup,1,0
-16,2027-02-20,Saturday,EF,20 min,20' EF 5'20-5'45/km + 4x20'' foulees (shakeout veille de course),Fraicheur,3,3
-16,2027-02-21,Sunday,Course,45 min,"10 KM SECONDAIRE (a choisir ; sinon test a l'entrainement). Objectif : apprendre le depart et le stress de course, pas de chrono impose. Depart a 3'58-4'00, 2e moitie au ressenti, gel 15' avant. Echauffement 20' + 4 lignes droites. Ne pas jouer le PR.",Objectif secondaire (Maxime) - evaluer le niveau,9,10
+16,2027-02-16,Tuesday,EF,35 min,35' EF 5'20-5'45/km,Recuperation apres course,3,6
+16,2027-02-17,Wednesday,Natation,35 min,"Midi, 35' effectives : 300 m echauffement, 6x50 educatifs, 8x100 r=20'' regulier, 200 retour calme (facile)",Technique + frequence,3,0
+16,2027-02-18,Thursday,EF,40 min,40' EF 5'20-5'45/km + 5x15'' foulees (95 %) r=45'',Base,3,7
+16,2027-02-19,Friday,HomeTrainer,60 min,"Zwift fond Z2 60' : facile, 60 g glucides/h",Fond aerobie,3,0
+16,2027-02-20,Saturday,Repos,—,Repos complet,Recup,1,0
+16,2027-02-21,Sunday,SL,1h30,"SL 1h30 en EF 5'25-5'45/km, finir facile dont 2 x 20' SV1 4'30-4'40/km (r=3' jog) ; glucides 40-60 g/h",SL specifique SV1 (RunWise),3,16
 17,2027-02-22,Monday,Natation,1h,"Club 20h (1h, selon programme du club)",Technique + endurance,4,0
-17,2027-02-23,Tuesday,EF,30 min,30' EF 5'20-5'45/km,Recuperation apres course,3,5
+17,2027-02-23,Tuesday,EF,40 min,"40' EF 5'20-5'45/km + 5x15'' foulees (95 %) r=45'' + renfo AVEC charges 20' juste apres : mollets unipodal sur marche 3x12, squat ou presse 3x8, fente bulgare 3x8, ischios 3x10, gainage",Base,3,7
 17,2027-02-24,Wednesday,Repos,—,Repos complet,Recup,1,0
-17,2027-02-25,Thursday,EF,40 min,40' EF 5'20-5'45/km,Semaine allegee,3,7
+17,2027-02-25,Thursday,Quali,1h10,J-10 : 15' EF + 4 x (1 km allure semi 4'07-4'10 + 1 km steady 4'45) + 10' EF,Lactate shuttle semi (RunWise),8,12
 17,2027-02-26,Friday,Repos,—,Repos complet,Recup,1,0
-17,2027-02-27,Saturday,EF,25 min,25' EF 5'20-5'45/km,Semaine allegee,3,4
-17,2027-02-28,Sunday,SL,1h,"SL 1h en EF 5'25-5'45/km, finir facile",Semaine allegee,3,11
+17,2027-02-27,Saturday,EF,25 min,"25' EF 5'20-5'45/km + renfo leger 15' (poids du corps, derniere semaine de charges)",Base,3,4
+17,2027-02-28,Sunday,SL,1h10,"SL 1h10 en EF 5'25-5'45/km, finir facile",Reduction avant le semi,3,12
 18,2027-03-01,Monday,Repos,—,Repos (pas de natation club cette semaine),Recup,1,0
-18,2027-03-02,Tuesday,EF,40 min,"40' EF 5'20-5'45/km + 5x15'' foulees (95 %) r=45'' + renfo AVEC charges 20' juste apres : mollets unipodal sur marche 3x12, squat ou presse 3x8, fente bulgare 3x8, ischios 3x10, gainage",Base,3,7
-18,2027-03-03,Wednesday,Natation,35 min,"Midi, 35' effectives : 300 m echauffement, 6x50 educatifs, 8x100 r=20'' regulier, 200 retour calme",Technique + frequence,3,0
-18,2027-03-04,Thursday,Quali,1h10,15' EF + 4 x (1 km allure semi 4'08-4'10 + 1 km steady 4'45) + 10' EF,Lactate shuttle semi (RunWise),7,12
-18,2027-03-05,Friday,HomeTrainer,60 min,"Zwift fond Z2 60' : facile, 60 g glucides/h + renfo AVEC charges 20' juste apres : mollets unipodal sur marche 3x12, squat ou presse 3x8, fente bulgare 3x8, ischios 3x10, gainage",Fond aerobie,3,0
-18,2027-03-06,Saturday,Repos,—,Repos complet,Recup,1,0
-18,2027-03-07,Sunday,SL,1h35,"SL 1h35 en EF 5'25-5'45/km, finir facile ; 3 derniers km a 4'30",SL progressive,3,17
-19,2027-03-08,Monday,Natation,1h,"Club 20h : facile, ne pas forcer (semaine de semi)",Technique + endurance,4,0
-19,2027-03-09,Tuesday,EF,40 min,"40' EF 5'20-5'45/km + 5x15'' foulees (95 %) r=45'' + renfo leger 15' apres (poids du corps : mollets 2x15, hanches, gainage)",Affutage leger,3,7
+18,2027-03-02,Tuesday,EF,40 min,"40' EF 5'20-5'45/km + 6x15'' foulees (95 %) r=45'' + renfo leger 15' apres (poids du corps : mollets 2x15, hanches, gainage)",Affutage,3,7
+18,2027-03-03,Wednesday,Natation,35 min,"Midi, 35' effectives : 300 m echauffement, 6x50 educatifs, 8x100 r=20'' regulier, 200 retour calme (facile, 30')",Technique + frequence,3,0
+18,2027-03-04,Thursday,Quali,45 min,J-3 : 20' EF + 3 x 1 km allure semi 4'07-4'10 (r=1'30 jog) + 10' EF,Rappel d'allure semi,6,8
+18,2027-03-05,Friday,Repos,—,Repos complet,Recup,1,0
+18,2027-03-06,Saturday,EF,20 min,20' EF 5'20-5'45/km + 4x20'' foulees (shakeout),Fraicheur,3,3
+18,2027-03-07,Sunday,Course,1h27,"SEMI-MARATHON DE FLEURBAIX (07/03, parcours tres rapide). Objectif : battre ton record (1h29'36 en cours de marathon). Cible 1h26'30-1h27'30 = 4'06-4'09/km, a valider avec le 10 km du 14/02. Depart a 4'10 les 3-5 premiers km, 4'07 ensuite, decision au 15e ; s'abriter du vent dans un groupe. Gels km 8 et 15 avant l'eau. Echauffement 15-20'. Analyse ensuite avec Enduro Dashboard (vent). Sleep banking les 3 nuits avant.",RP semi,9,24
+19,2027-03-08,Monday,Natation,1h,Club 20h : facile,Technique + endurance,4,0
+19,2027-03-09,Tuesday,EF,30 min,30' EF 5'20-5'45/km,Recuperation apres semi,3,5
 19,2027-03-10,Wednesday,Repos,—,Repos complet,Recup,1,0
-19,2027-03-11,Thursday,Quali,45 min,15' EF + 4 x 1 km allure semi 4'08-4'10 (r=1'30 jog) + 10' EF,Rappel d'allure semi,6,8
+19,2027-03-11,Thursday,EF,35 min,35' EF 5'20-5'45/km,Recuperation,3,6
 19,2027-03-12,Friday,Repos,—,Repos complet,Recup,1,0
-19,2027-03-13,Saturday,EF,20 min,20' EF 5'20-5'45/km + 4x20'' foulees (shakeout),Fraicheur,3,3
-19,2027-03-14,Sunday,Course,1h28,"SEMI-MARATHON (date et course a confirmer ; ~14/03). Objectif : battre ton record (1h29'36 en cours de marathon). Cible 1h27-1h28 = 4'08-4'11/km, a valider apres le 10 km de fevrier. Depart a 4'12-4'13 les 5 premiers km, 4'09 ensuite, decision au 15e. Gels km 8 et 15 avant l'eau. Analyse ensuite avec Enduro Dashboard (vent). Prevoir 15-20' d'echauffement.",RP semi,9,24
+19,2027-03-13,Saturday,EF,25 min,25' EF 5'20-5'45/km,Recuperation,3,4
+19,2027-03-14,Sunday,SL,1h,"SL 1h en EF 5'25-5'45/km, finir facile",Reprise du volume,3,11
 20,2027-03-15,Monday,Repos,—,Repos (pas de natation club cette semaine),Recup,1,0
-20,2027-03-16,Tuesday,EF,35 min,35' EF 5'20-5'45/km,Recuperation apres semi,3,6
-20,2027-03-17,Wednesday,Natation,35 min,"Midi, 35' effectives : 300 m echauffement, 6x50 educatifs, 8x100 r=20'' regulier, 200 retour calme (facile)",Technique + frequence,3,0
-20,2027-03-18,Thursday,EF,40 min,40' EF 5'20-5'45/km,Recuperation,3,7
-20,2027-03-19,Friday,HomeTrainer,45 min,"HT 45' souple Zwift, Z1-Z2",Recup active,3,0
+20,2027-03-16,Tuesday,EF,40 min,"40' EF 5'20-5'45/km + 5x15'' foulees (95 %) r=45'' + renfo AVEC charges 20' juste apres : mollets unipodal sur marche 3x12, squat ou presse 3x8, fente bulgare 3x8, ischios 3x10, gainage",Base,3,7
+20,2027-03-17,Wednesday,Natation,35 min,"Midi, 35' effectives : 300 m echauffement, 6x50 educatifs, 8x100 r=20'' regulier, 200 retour calme",Technique + frequence,3,0
+20,2027-03-18,Thursday,Quali,50 min,Footing progressif : 10' EF + 15' SV1 4'30-4'40/km + 15' SV2 4'10-4'15/km (continu) + 10' EF,Seuils + gestion d'effort (RunWise),6,10
+20,2027-03-19,Friday,HomeTrainer,60 min,"Zwift fond Z2 60' : facile, 60 g glucides/h",Fond aerobie,3,0
 20,2027-03-20,Saturday,Repos,—,Repos complet,Recup,1,0
-20,2027-03-21,Sunday,SL,1h10,"SL 1h10 en EF 5'25-5'45/km, finir facile",Reprise du volume,3,12
+20,2027-03-21,Sunday,SL,1h20,"SL 1h20 en EF 5'25-5'45/km, finir facile",Sortie longue facile,3,14
 21,2027-03-22,Monday,Natation,1h,"Club 20h (1h, selon programme du club)",Technique + endurance,4,0
 21,2027-03-23,Tuesday,EF,40 min,"40' EF 5'20-5'45/km + 5x15'' foulees (95 %) r=45'' + renfo AVEC charges 20' juste apres : mollets unipodal sur marche 3x12, squat ou presse 3x8, fente bulgare 3x8, ischios 3x10, gainage",Base,3,7
 21,2027-03-24,Wednesday,Repos,—,Repos complet,Recup,1,0
